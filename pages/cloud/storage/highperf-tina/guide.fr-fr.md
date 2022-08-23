@@ -70,7 +70,7 @@ Ensuite modifiez les informations concernant **Cloud destination parameters** :
 - **Secured connection** : `coché`.
 - **Access key ID** : `clé du bucket`.
 - **Access key password** : `mot de passe correspondant à la clé`.
-- **Bucket name** : `tinabucker`.
+- **Bucket name** : `tinabucket`.
 
 Faites `défiler la fenêtre`{.action}. 
 
@@ -91,11 +91,11 @@ Le nouveau stockage apparait.
 
 CLiquez sur `Backup`{.action}, ensuite cliquez sur `Pools & cartriges`{.action}.
 
-![01 Configure Storage 06](images/01-configure-storage06.png){.thumbnail}
+![02 Configure Storage 01](images/02-display-pool-cardridge01.png){.thumbnail}
 
 Le pool de rétention est créé et est utilisable pour une destination lors de la configuration d'un agent de sauvegarde.
 
-![01 Configure Storage 07](images/01-configure-storage06.png){.thumbnail}
+![02 Configure Storage 02](images/02-display-pool-cardridge02.png){.thumbnail}
 
 ## Aller plus loin
 
