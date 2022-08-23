@@ -17,7 +17,6 @@ text-align:justify;
 #customProductIndex ul {
 display:flex;
 flex-wrap:wrap;
-justify-content: center;
 list-style:none;
 margin:25px -15px 0;
 padding:0;
