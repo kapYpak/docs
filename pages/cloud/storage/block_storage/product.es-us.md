@@ -1,7 +1,7 @@
 ---
-title: Almacenamiento
-slug: storage
-excerpt: Primeros pasos con los productos de almacenamiento de OVHcloud
+title: Block storage
+slug: block-storage
+excerpt:
 order: 06
 sections: Cloud Disk Array
 ---

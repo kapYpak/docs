@@ -1,6 +1,5 @@
 ---
 deprecated: true
-title: Storage
-slug: storage
-excerpt: Start with OVH Storage Products
+title: File storage
+slug: file-storage
 ---

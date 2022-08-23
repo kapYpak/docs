@@ -1,7 +1,7 @@
 ---
-title: Storage
-slug: storage
-excerpt: Verwendung von OVHcloud Storage und Backup
+title: Object storage
+slug: object-storage
+excerpt:
 order: 06
 sections: Object Storage S3 High Performance, Object Storage Standard (Swift), Public Cloud Archive
 ---

@@ -1,7 +1,7 @@
 ---
-title: Almacenamiento
-slug: storage
-excerpt: Primeros pasos con los productos de almacenamiento de OVHcloud
+title: File storage
+slug: file-storage
+excerpt:
 order: 06
 sections: Enterprise File Storage, NAS
 ---

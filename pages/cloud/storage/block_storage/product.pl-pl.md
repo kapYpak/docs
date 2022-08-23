@@ -1,7 +1,7 @@
 ---
-title: Storage
-slug: storage
-excerpt: 'Dowiedz się, jak korzystać z rozwiązań do przechowywania danych'
+title: Block storage
+slug: block-storage
+excerpt:
 order: 06
 sections: Cloud Disk Array
 ---

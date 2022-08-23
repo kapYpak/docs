@@ -1,7 +1,7 @@
 ---
-title: Storage
-slug: storage
-excerpt: Come utilizzare le soluzioni di storage OVHcloud
+title: Block storage
+slug: block-storage
+excerpt:
 order: 06
 sections: Cloud Disk Array
 ---

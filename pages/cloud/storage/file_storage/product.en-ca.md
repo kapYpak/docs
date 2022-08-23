@@ -1,7 +1,7 @@
 ---
-title: Storage
-slug: storage
-excerpt: Get started with OVHcloud Storage and Backup solutions
+title: File storage
+slug: file-storage
+excerpt:
 order: 06
 sections: Enterprise File Storage, NAS
 ---

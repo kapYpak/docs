@@ -1,7 +1,7 @@
 ---
-title: Storage
-slug: storage
-excerpt: Verwendung von OVHcloud Storage und Backup
+title: Backup and disaster recovery solution
+slug: backup
+excerpt:
 order: 06
 sections: Veeam
 ---

@@ -1,7 +1,7 @@
 ---
-title: Storage
-slug: storage
-excerpt: Come utilizzare le soluzioni di storage OVHcloud
+title: File storage
+slug: file-storage
+excerpt:
 order: 06
 sections: Enterprise File Storage, NAS
 ---

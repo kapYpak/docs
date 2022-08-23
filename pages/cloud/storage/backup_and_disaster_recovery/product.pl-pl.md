@@ -1,7 +1,7 @@
 ---
-title: Storage
-slug: storage
-excerpt: 'Dowiedz się, jak korzystać z rozwiązań do przechowywania danych'
+title: Backup and disaster recovery solution
+slug: backup
+excerpt:
 order: 06
 sections: Veeam
 ---

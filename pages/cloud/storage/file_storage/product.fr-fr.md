@@ -1,7 +1,7 @@
 ---
-title: Stockage et sauvegarde
-slug: storage
-excerpt: Débuter avec vos produits de stockage et sauvegarde OVHcloud
+title: File storage
+slug: file-storage
+excerpt:
 order: 06
 sections: Enterprise File Storage, NAS
 ---
