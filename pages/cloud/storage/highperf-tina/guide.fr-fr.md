@@ -16,13 +16,14 @@ Ce guide a pour objectif de vous montrer comment configurer Tina pour utiliser v
 > OVHcloud met à votre disposition des services dont la configuration, la gestion et la responsabilité vous incombent. Il vous revient de ce fait d'en assurer le bon fonctionnement.
 >
 > Nous mettons à votre disposition ce guide afin de vous accompagner au mieux sur des tâches courantes. Néanmoins, nous vous recommandons de faire appel à un [prestataire spécialisé](https://partner.ovhcloud.com/fr/) et/ou de contacter l'éditeur du logiciel si vous éprouvez des difficultés. En effet, nous ne serons pas en mesure de vous fournir une assistance. Plus d'informations dans la section « Aller plus loin » de ce guide.
+>
 > La licence Tina n’est pas fournie par OVHcloud. Pour plus d’informations, contactez le service commercial de Atempo ou d’OVHcloud.
 >
 
 ## Prérequis
 
 - Avoir créé un bucket.
-- Avoir créé un utilisateur et avoir défini les droits d'accès requis sur le bucket
+- Avoir créé un utilisateur et avoir défini les droits d'accès requis sur le bucket.
 - Connaître vos informations d'identification S3 (access_key et secret_access_key).
 - Utiliser une solution de sauvegarde [Tina](https://www.atempo.com/fr/produits/tina-atempo-time-navigator-sauvegarde-d-entreprise-complete/).
 
@@ -31,9 +32,9 @@ Consultez notre guide « [Débuter avec S3 Object Storage](https://docs.ovh.com/
 
 ## En pratique
 
-Nous allons configurer un stockage **High Performance Object Storage** avec le logiciel de sauvegarde **Tina** en tant que dépôt pour certains agents de sauvegardes **Tina**, vous pouvez consultez ce lien pour vérifier la compatibilité [Guide de compatibilité Tina 2022](https://www.atempo.com/wp-content/uploads/2022/01/COMPATIBILITY-GUIDE_en_Tina_469_24-01-2022.pdf).
+Nous allons configurer un stockage **High Performance Object Storage** avec le logiciel de sauvegarde **Tina** en tant que dépôt pour certains agents de sauvegardes **Tina**, vous pouvez consultez ce lien pour vérifier la compatibilité [Guide de compatibilité Tina 2022](https://www.atempo.com/wp-content/uploads/2022/01/COMPATIBILITY-GUIDE_en_Tina_469_24-01-2022.pdf) avec les agents de sauvegarde.
 
-### Activation du versioning sur le bucket S3
+### Activation de la gestion des versions sur le bucket S3
 
 Pour pouvoir utiliser **High Performance Object Storage** comme solution de stockage pour **Tina** il est nécessaire d'activer la gestion des versions sur le *bucket*. 
 
