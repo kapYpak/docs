@@ -1,5 +1,5 @@
 ---
-title: Utiliser S3 Object Storage avec Tina
+title: Utiliser High Performance Object Storage avec Tina
 slug: s3/tina
 section: Object Storage S3 High Performance
 order: 141
@@ -9,7 +9,7 @@ order: 141
 
 ## Objectif
 
-Ce guide a pour objectif de vous montrer comment configurer Tina pour utiliser votre espace de stockage High Perf Object Storage.
+Ce guide a pour objectif de vous montrer comment configurer Tina pour utiliser votre espace de stockage **High Perf Object Storage**.
 
 > [!warning]
 >
@@ -17,7 +17,7 @@ Ce guide a pour objectif de vous montrer comment configurer Tina pour utiliser v
 >
 > Nous mettons à votre disposition ce guide afin de vous accompagner au mieux sur des tâches courantes. Néanmoins, nous vous recommandons de faire appel à un [prestataire spécialisé](https://partner.ovhcloud.com/fr/) et/ou de contacter l'éditeur du logiciel si vous éprouvez des difficultés. En effet, nous ne serons pas en mesure de vous fournir une assistance. Plus d'informations dans la section « Aller plus loin » de ce guide.
 >
-> La licence Tina n’est pas fournie par OVHcloud. Pour plus d’informations, contactez le service commercial d'Atempo ou d’OVHcloud.
+> Les licences Tina ne sont pas fournie par OVHcloud. Pour plus d’informations, contactez le service commercial d'Atempo ou d’OVHcloud.
 >
 
 ## Prérequis
@@ -32,11 +32,12 @@ Consultez notre guide « [Débuter avec S3 Object Storage](https://docs.ovh.com/
 
 ## En pratique
 
-Nous allons configurer un stockage **High Performance Object Storage** avec le logiciel de sauvegarde **Tina** en tant que dépôt pour certains agents de sauvegardes **Tina**, vous pouvez consultez ce lien pour vérifier la compatibilité [Guide de compatibilité Tina 2022](https://www.atempo.com/wp-content/uploads/2022/01/COMPATIBILITY-GUIDE_en_Tina_469_24-01-2022.pdf) avec les agents de sauvegarde.
+Nous allons utiliser une solution **High Performance Object Storage** comme dépôt du logiciel de sauvegarde **Tina**.
+
 
 ### Activation de la gestion des versions sur le bucket S3
 
-Pour pouvoir utiliser **High Performance Object Storage** comme solution de stockage pour **Tina** il est nécessaire d'activer la gestion des versions sur le *bucket*. 
+Il est nécessaire d'activer la gestion des versions sur le *bucket* qui servira de dépôt. 
 
 Utilisez cette commande qui fait partie des outils **Awscli** pour activer la gestion des versions sur le bucket **tinabucket** qui se trouve à Strasbourg :
 
@@ -93,7 +94,7 @@ CLiquez sur `Backup`{.action}, ensuite cliquez sur `Pools & cartridges`{.action}
 
 ![02 Configure Storage 01](images/02-display-pool-cartridge01.png){.thumbnail}
 
-Le pool de rétention est créé et est utilisable pour une destination lors de la configuration d'un agent de sauvegarde.
+Le pool de rétention est créé et est utilisable en tant que destination lors de la configuration d'un agent de sauvegarde.
 
 ![02 Configure Storage 02](images/02-display-pool-cartridge02.png){.thumbnail}
 
