@@ -31,25 +31,70 @@ Consultez notre guide « [Débuter avec S3 Object Storage](https://docs.ovh.com/
 
 ## En pratique
 
-Nous allons configurer un stockage **High Performance Object Storage** sur le logiciel de sauvegarde **Tina** en tant que que dépôt pour certains agents de sauvegardes **Tina**. Vous pouvez consultez ce lien pour vérifier la comptatibilité [Guide de compatibilité Tina 2022](https://www.atempo.com/wp-content/uploads/2022/01/COMPATIBILITY-GUIDE_en_Tina_469_24-01-2022.pdf).
+Nous allons configurer un stockage **High Performance Object Storage** avec le logiciel de sauvegarde **Tina** en tant que dépôt pour certains agents de sauvegardes **Tina**, vous pouvez consultez ce lien pour vérifier la compatibilité [Guide de compatibilité Tina 2022](https://www.atempo.com/wp-content/uploads/2022/01/COMPATIBILITY-GUIDE_en_Tina_469_24-01-2022.pdf).
 
 ### Activation du versioning sur le bucket S3
 
-Pour pouvoir utiliser **High Performance Object Storage** comme solution de stockage pour **Tina** il est necesssaire d'activer la gestion des versions sur le *bucket*. Il faut utiliser les outils **Awscli**.
+Pour pouvoir utiliser **High Performance Object Storage** comme solution de stockage pour **Tina** il est nécessaire d'activer la gestion des versions sur le *bucket*. 
 
-Utilisez cette commande pour activer la gestion des versions sur le bucket **tinabucket** se trouvant à Strasbourg :
+Utilisez cette commande qui fait partie des outils *Awscli** pour activer la gestion des versions sur le bucket **tinabucket** qui se trouve à Strasbourg :
 
 ```bash
 aws s3api put-bucket-versioning --bucket tinabucket --versioning-configuration Status=Enabled --endpoint=https://s3.sbg.perf.cloud.ovh.net
 ```
 
-### Ajout du stockage HighPerformance Object Storage sur le serveur **Tina**
+### Ajout du stockage HighPerformance Object Storage sur le serveur **Tina****
 
-Maintenant que le bucket est configuré nous allons ajouter le stockage à notre serveur de sauvegarde 
+Au travers de la console d'administration de **Tina** choisissez à gauche `Backup`{.action} ensuite cliquez sur `Storage`{.action}.
 
+![01 Configure Storage 01](images/01-configure-storage01.png){.thumbnail}
 
+Cliquez sur `Add new storage`{.action}.
 
+![01 Configure Storage 02](images/01-configure-storage02.png){.thumbnail}
 
+Choisisssez `cloud storage`{.action} et cliquez sur `Next`{.action}.
+
+![01 Configure Storage 03](images/01-configure-storage03.png){.thumbnail}
+
+Saisissez ces valeurs pour **Cloud storage information** :
+
+- **Enter a name for storage** : `High Performance Object Storage`.
+- **Cloud type** : `Generic S3`.
+- **Comment** : `High Performance Object Storage by OVHcloud`.
+
+Ensuite modifiez les informations concernant **Cloud destination parameters** :
+
+- **Cloud destination server name** : `s3.sbg.perf.cloud.ovh.net`.
+- **Secured connection** : `coché`.
+- **Access key ID** : `clé du bucket`.
+- **Access key password** : `mot de passe correspondant à la clé`.
+- **Bucket name** : `tinabucker`.
+
+Faites `défiler la fenêtre`{.action}. 
+
+![01 Configure Storage 04](images/01-configure-storage04.png){.thumbnail}
+
+Activez `Define a primary data retention pool`{.action} et choisissez ces options :
+
+- **Retention** : `Infinite`.
+- **Storage pool name** : `HighPerformanceObjectStorage`.
+
+Cliquez sur `FINISH`{.action}. 
+
+![01 Configure Storage 05](images/01-configure-storage05.png){.thumbnail}
+
+Le nouveau stockage apparait.
+
+![01 Configure Storage 06](images/01-configure-storage06.png){.thumbnail}
+
+CLiquez sur `Backup`{.action}, ensuite cliquez sur `Pools & cartriges`{.action}.
+
+![01 Configure Storage 06](images/01-configure-storage06.png){.thumbnail}
+
+Le pool de rétention est créé et est utilisable pour une destination lors de la configuration d'un agent de sauvegarde.
+
+![01 Configure Storage 07](images/01-configure-storage06.png){.thumbnail}
 
 ## Aller plus loin
 
