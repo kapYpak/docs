@@ -2,6 +2,6 @@
 title: Block storage
 slug: block-storage
 excerpt:
-order: 06
+order: 03
 sections: Cloud Disk Array
 ---

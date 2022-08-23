@@ -2,6 +2,6 @@
 title: File storage
 slug: file-storage
 excerpt:
-order: 06
+order: 02
 sections: Enterprise File Storage, NAS
 ---

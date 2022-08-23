@@ -42,6 +42,7 @@ padding:20px 15px 0;
 }
 #customProductIndex ul li a:hover {
 background:#efefef;
+text-decoration:none !important;
 }
 #customProductIndex ul li a h3 {
 margin:0;
@@ -88,31 +89,31 @@ padding:0 0 15px;
 
 <div id="customProductIndex">
 
-## Get started with OVHcloud Storage and Backup solutions
+<h2>Get started with OVHcloud Storage and Backup solutions</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.
 
 <ul>
   <li>
-    <a href="#">
+    <a href="object-storage/">
       <h3>Object Storage</h3>
       <p>In rutrum orci augue, a sollicitudin libero dictum sit</p>
     </a>
   </li>
   <li>
-    <a href="#">
+    <a href="file-storage/">
       <h3>File Storage</h3>
       <p>In rutrum orci augue, a sollicitudin libero dictum sit</p>
     </a>
   </li>
   <li>
-    <a href="#">
+    <a href="block-storage/">
       <h3>Block Storage</h3>
       <p>In rutrum orci augue, a sollicitudin libero dictum sit</p>
     </a>
   </li>
   <li>
-    <a href="#">
+    <a href="backup/">
       <h3>Backup and disaster recovery solution</h3>
       <p>In rutrum orci augue, a sollicitudin libero dictum sit</p>
     </a>

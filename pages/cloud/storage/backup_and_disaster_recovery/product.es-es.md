@@ -2,6 +2,6 @@
 title: Backup and disaster recovery solution
 slug: backup
 excerpt:
-order: 06
+order: 04
 sections: Veeam
 ---
