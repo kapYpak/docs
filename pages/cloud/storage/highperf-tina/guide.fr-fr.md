@@ -17,7 +17,7 @@ Ce guide a pour objectif de vous montrer comment configurer Tina pour utiliser v
 >
 > Nous mettons à votre disposition ce guide afin de vous accompagner au mieux sur des tâches courantes. Néanmoins, nous vous recommandons de faire appel à un [prestataire spécialisé](https://partner.ovhcloud.com/fr/) et/ou de contacter l'éditeur du logiciel si vous éprouvez des difficultés. En effet, nous ne serons pas en mesure de vous fournir une assistance. Plus d'informations dans la section « Aller plus loin » de ce guide.
 >
-> La licence Tina n’est pas fournie par OVHcloud. Pour plus d’informations, contactez le service commercial de Atempo ou d’OVHcloud.
+> La licence Tina n’est pas fournie par OVHcloud. Pour plus d’informations, contactez le service commercial d'Atempo ou d’OVHcloud.
 >
 
 ## Prérequis
@@ -38,7 +38,7 @@ Nous allons configurer un stockage **High Performance Object Storage** avec le l
 
 Pour pouvoir utiliser **High Performance Object Storage** comme solution de stockage pour **Tina** il est nécessaire d'activer la gestion des versions sur le *bucket*. 
 
-Utilisez cette commande qui fait partie des outils *Awscli** pour activer la gestion des versions sur le bucket **tinabucket** qui se trouve à Strasbourg :
+Utilisez cette commande qui fait partie des outils **Awscli** pour activer la gestion des versions sur le bucket **tinabucket** qui se trouve à Strasbourg :
 
 ```bash
 aws s3api put-bucket-versioning --bucket tinabucket --versioning-configuration Status=Enabled --endpoint=https://s3.sbg.perf.cloud.ovh.net
