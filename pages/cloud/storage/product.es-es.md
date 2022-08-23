@@ -1,15 +1,15 @@
 ---
 title: Almacenamiento
 slug: storage
-excerpt: Primeros pasos con los productos de almacenamiento de OVHcloud
 order: 06
-sections:
 ---
 
-
 <style>
-html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
-padding:0 !important;
+.row.product:nth-of-type(1) {
+  display: none;
+}
+#customProductIndex {
+padding: 0 25px;
 }
 #customProductIndex p {
 text-align:justify;
@@ -17,14 +17,15 @@ text-align:justify;
 #customProductIndex ul {
 display:flex;
 flex-wrap:wrap;
+justify-content: center;
 list-style:none;
-margin:0 -15px;
+margin:25px -15px 0;
 padding:0;
 }
 #customProductIndex ul li {
 display:flex;
 padding:15px;
-width:calc(100% / var(--col-nbrs) - 30px);
+width:calc(100% / var(--col-nbrs));
 text-align:center;
 }
 #customProductIndex ul li a {
@@ -77,21 +78,21 @@ padding:0 0 15px;
 }
 @media screen and (min-width:992px){
 :root {
-  --col-nbrs:2;
+  --col-nbrs:3;
 }
 }
 @media screen and (min-width:1280px){
 :root {
-  --col-nbrs:2;
+  --col-nbrs:4;
 }
 }
 </style>
 
 <div id="customProductIndex">
 
-<h2>Get started with OVHcloud Storage and Backup solutions</h2>
+<h2>Primeros pasos con los productos de almacenamiento de OVHcloud</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
 
 <ul>
   <li>

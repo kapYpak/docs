@@ -1,5 +1,5 @@
 ---
-title: Block storage
+title: Block Storage
 slug: block-storage
 excerpt:
 order: 03

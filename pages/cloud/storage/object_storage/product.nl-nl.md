@@ -1,6 +1,6 @@
 ---
 deprecated: true
-title: Object storage
+title: Object Storage
 slug: object-storage
 excerpt:
 ---

@@ -1,5 +1,5 @@
 ---
 deprecated: true
-title: File storage
+title: File Storage
 slug: file-storage
 ---

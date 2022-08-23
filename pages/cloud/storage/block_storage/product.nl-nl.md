@@ -1,5 +1,5 @@
 ---
 deprecated: true
-title: Block storage
+title: Block Storage
 slug: block-storage
 ---

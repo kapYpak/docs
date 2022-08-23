@@ -1,5 +1,5 @@
 ---
-title: Object storage
+title: Object Storage
 slug: object-storage
 excerpt:
 order: 01
