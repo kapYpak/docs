@@ -7,8 +7,11 @@ sections:
 ---
 
 <style>
-html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview {
-padding:0 !important;
+.row.product:nth-of-type(1) {
+  display: none;
+}
+#customProductIndex {
+padding: 0 25px;
 }
 #customProductIndex p {
 text-align:justify;
@@ -16,6 +19,7 @@ text-align:justify;
 #customProductIndex ul {
 display:flex;
 flex-wrap:wrap;
+justify-content: center;
 list-style:none;
 margin:0 -15px;
 padding:0;
@@ -23,7 +27,7 @@ padding:0;
 #customProductIndex ul li {
 display:flex;
 padding:15px;
-width:calc(100% / var(--col-nbrs) - 30px);
+width:calc(100% / var(--col-nbrs));
 text-align:center;
 }
 #customProductIndex ul li a {
@@ -81,7 +85,7 @@ padding:0 0 15px;
 }
 @media screen and (min-width:1280px){
 :root {
-  --col-nbrs:2;
+  --col-nbrs:4;
 }
 }
 </style>
