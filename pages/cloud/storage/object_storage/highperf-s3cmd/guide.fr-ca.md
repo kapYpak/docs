@@ -1,8 +1,8 @@
 ---
-title: Utiliser S3 Object Storage avec S3cmd
+title: Object Storage - Utiliser S3 Object Storage avec S3cmd
 slug: s3/s3cmd
 excerpt: Découvrez comment configurer S3cmd afin de gérer vos buckets et objets
-section: Object Storage S3 High Performance
+section: Tutoriels
 order: 130
 ---
 

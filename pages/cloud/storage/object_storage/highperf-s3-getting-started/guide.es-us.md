@@ -1,8 +1,8 @@
 ---
-title: Empezar con S3 Object Storage (EN)
+title: Object Storage - Empezar con S3 Object Storage (EN)
 slug: s3/getting-started-with-s3
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 020
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/getting-started-with-s3/'

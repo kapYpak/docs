@@ -1,8 +1,8 @@
 ---
-title: Gerenciando o Bloqueio de Objetos (WORM) (EN)
+title: Object Storage - Gerenciando o Bloqueio de Objetos (WORM) (EN)
 slug: s3/managing-object-lock
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 110
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/managing-object-lock/'

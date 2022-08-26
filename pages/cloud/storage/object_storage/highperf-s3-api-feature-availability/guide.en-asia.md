@@ -1,8 +1,8 @@
 ---
-title: S3 Compliancy
+title: Object Storage - S3 Compliancy
 slug: s3/s3-compliancy
 excerpt:
-section: Object Storage S3 High Performance
+section: General information
 order: 010
 ---
 

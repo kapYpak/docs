@@ -1,8 +1,8 @@
 ---
-title: Set up an Access Control List on Object Storage
+title: Object Storage Swift - Set up an Access Control List on Object Storage
 slug: pcs/acl
 excerpt: Here are the concepts for implementing ACLs in Object Storage
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 040
 ---
 

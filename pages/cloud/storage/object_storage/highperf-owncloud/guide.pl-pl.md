@@ -1,8 +1,8 @@
 ---
-title: Skorzystaj z oferty S3 Object Storage z Owncloud (EN)
+title: Object Storage - Skorzystaj z oferty S3 Object Storage z Owncloud (EN)
 slug: s3/owncloud
 excerpt: Learn how to set up storage in Owncloud to use a S3 Object Storage bucket
-section: Object Storage S3 High Performance
+section: Configure Object Storage with your solutions
 order: 170
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/owncloud/'

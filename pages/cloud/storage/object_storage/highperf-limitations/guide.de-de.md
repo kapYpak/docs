@@ -1,8 +1,8 @@
 ---
-title: S3 Object Storage - Technische Grenzen (EN)
+title: Object Storage - Technische Grenzen (EN)
 slug: s3/limitations
 excerpt: Find here information on the Object Storage S3 Object Storage limitations
-section: Object Storage S3 High Performance
+section: General information
 order: 025
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/limitations/'

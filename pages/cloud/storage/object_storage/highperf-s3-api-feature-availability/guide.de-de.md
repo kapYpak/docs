@@ -1,8 +1,8 @@
 ---
-title: S3 Kompatibilität (EN)
+title: Object Storage - S3 Kompatibilität (EN)
 slug: s3/s3-compliancy
 excerpt:
-section: Object Storage S3 High Performance
+section: General information
 order: 010
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/s3-compliancy/'

@@ -1,8 +1,8 @@
 ---
-title: Zoptymalizuj wysyłkę plików do S3 Object Storage (EN)
+title: Object Storage - Zoptymalizuj wysyłkę plików do S3 Object Storage (EN)
 slug: s3/optimise-the-sending-of-your-files
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 040
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/optimise-the-sending-of-your-files/'

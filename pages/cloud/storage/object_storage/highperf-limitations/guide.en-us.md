@@ -1,8 +1,8 @@
 ---
-title: S3 Object Storage - Technical Limitations
+title: Object Storage - Technical Limitations
 slug: s3/limitations
 excerpt: Find here information on the Object Storage S3 Object Storage limitations
-section: Object Storage S3 High Performance
+section: General information
 order: 025
 ---
 

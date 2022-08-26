@@ -1,8 +1,8 @@
 ---
-title: Chiffrez vos objets côté serveur avec SSE-C
+title: Object Storage - Chiffrez vos objets côté serveur avec SSE-C
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutoriels
 order: 180
 ---
 

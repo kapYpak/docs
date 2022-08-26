@@ -1,10 +1,10 @@
 ---
-title: Swift commands Memo (EN)
+title: Object Storage Swift - Swift commands Memo (EN)
 slug: pcs/swift-commands-memo
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/pcs/swift-commands-memo/'
 excerpt: Find here the main swift commands to manage your object containers
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 100
 ---
 

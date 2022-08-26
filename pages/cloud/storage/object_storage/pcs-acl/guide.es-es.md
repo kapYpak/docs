@@ -1,10 +1,10 @@
 ---
-title: Set up an Access Control List on Object Storage (EN)
+title: Object Storage Swift - Set up an Access Control List on Object Storage (EN)
 slug: pcs/acl
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/pcs/acl'
 excerpt: Here are the concepts for implementing ACLs in Object Storage
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 040
 ---
 

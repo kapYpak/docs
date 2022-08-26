@@ -1,10 +1,10 @@
 ---
-title: Getting started with Cold Archive (Alpha) (EN)
+title: Cold Archive - Getting started with Cold Archive (Alpha) (EN)
 slug: s3/getting-started-with-cold-archive
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/getting-started-with-cold-archive/'
 excerpt: This guide shows you how to manage your data with Cold Archive
-section: Cold Archive (Alpha)
+section: Cold Archive Storage Class Specifics
 order: 200
 ---
 
@@ -107,7 +107,7 @@ aws --endpoint-url https://s3.rbx.archive.cloud.ovh.net delete-ovh-archive <buck
 
 After this request, the objects of the bucket are not deleted yet.<br>
 It will take some time before objects are deleted.<br>
-Once objects are deleted, the bucket can be released: 
+Once objects are deleted, the bucket can be released:
 
 ```bash
 aws s3 rb s3://<bucket_name>

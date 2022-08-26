@@ -1,8 +1,8 @@
 ---
-title: "Gestion de l'Object Lock (WORM)"
+title: Object Storage - "Gestion de l'Object Lock (WORM)"
 slug: s3/managing-object-lock
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutoriels
 order: 110
 ---
 

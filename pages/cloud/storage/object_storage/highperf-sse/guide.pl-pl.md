@@ -1,8 +1,8 @@
 ---
-title: Szyfruj obiekty po stronie serwera za pomocą SSE-C (EN)
+title: Object Storage - Szyfruj obiekty po stronie serwera za pomocą SSE-C (EN)
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 180
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/encrypt-your-objects-with-sse-c/'

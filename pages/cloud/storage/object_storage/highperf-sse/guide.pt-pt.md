@@ -1,8 +1,8 @@
 ---
-title: Criptografe seus objetos do lado do servidor com SSE-C (EN)
+title: Object Storage - Criptografe seus objetos do lado do servidor com SSE-C (EN)
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 180
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/encrypt-your-objects-with-sse-c/'

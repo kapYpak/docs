@@ -1,8 +1,8 @@
 ---
-title: Capacités et limitations
+title: Object Storage Swift - Capacités et limitations
 slug: pcs/capabilities-and-limitations
 excerpt: Retrouvez ici les principales capacités et limitations pour la gestion de vos conteneurs
-section: Object Storage Standard (Swift)
+section: Spécificité de la classe de stockage OpenStack Swift
 order: 080
 ---
 
@@ -258,7 +258,7 @@ Il n'y a pas de limite au nombre de conteneurs dans un stockage.
 
 ### Keystone API version
 
-La version actuelle de keystone est la 3, la v2 étant obsolète depuis plusieures années : <https://public-cloud.status-ovhcloud.com/incidents/gwqhdkprm136> 
+La version actuelle de keystone est la 3, la v2 étant obsolète depuis plusieures années : <https://public-cloud.status-ovhcloud.com/incidents/gwqhdkprm136>
 
 ## Aller plus loin
 

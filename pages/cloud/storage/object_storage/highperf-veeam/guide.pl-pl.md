@@ -1,7 +1,7 @@
 ---
-title: Skorzystaj z oferty S3 Object Storage z Veeam (EN)
+title: Object Storage - Skorzystaj z oferty S3 Object Storage z Veeam (EN)
 slug: s3/veeam
-section: Object Storage S3 High Performance
+section: Configure Object Storage with your solutions
 order: 140
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/veeam/'

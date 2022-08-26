@@ -1,8 +1,8 @@
 ---
-title: Compatibilité S3
+title: Object Storage - Compatibilité S3
 slug: s3/compatibilite-s3
 excerpt:
-section: Object Storage S3 High Performance
+section: Informations générales
 order: 010
 ---
 

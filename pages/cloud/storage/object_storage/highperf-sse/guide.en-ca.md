@@ -1,8 +1,8 @@
 ---
-title: Encrypt your server-side objects with SSE-C
+title: Object Storage - Encrypt your server-side objects with SSE-C
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 180
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Utilizar S3 Object Storage con S3cmd (EN)
+title: Object Storage - Utilizar S3 Object Storage con S3cmd (EN)
 slug: s3/s3cmd
 excerpt: Learn how to configure S3cmd to manage your buckets and objects
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 130
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/s3cmd/'

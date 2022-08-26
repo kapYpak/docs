@@ -1,8 +1,8 @@
 ---
-title: Creating a Public Cloud Archive container
+title: Object Storage Swift - Creating a Public Cloud Archive container
 slug: pca/create-container
 excerpt: Find out how to create your Public Cloud Archive containers in the OVHcloud Control Panel
-section: Public Cloud Archive
+section: OpenStack Swift Archive Storage Class Specifics
 order: 020
 ---
 

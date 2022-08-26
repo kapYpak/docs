@@ -1,8 +1,8 @@
 ---
-title: Identitäts- und Zugriffsverwaltung (EN)
+title: Object Storage - Identitäts- und Zugriffsverwaltung (EN)
 slug: s3/identity-and-access-management
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 030
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/identity-and-access-management/'

@@ -1,7 +1,7 @@
 ---
-title: Utiliser S3 Object Storage avec Veeam
+title: Object Storage - Utiliser S3 Object Storage avec Veeam
 slug: s3/veeam
-section: Object Storage S3 High Performance
+section: Configurer Object Storage avec vos solutions
 order: 140
 ---
 

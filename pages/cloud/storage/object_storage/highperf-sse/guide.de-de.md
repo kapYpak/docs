@@ -1,8 +1,8 @@
 ---
-title: Verschlüsseln Ihrer serverseitigen Objekte mit SSE-C (EN)
+title: Object Storage - Verschlüsseln Ihrer serverseitigen Objekte mit SSE-C (EN)
 slug: s3/encrypt-your-objects-with-sse-c
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 180
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/encrypt-your-objects-with-sse-c/'

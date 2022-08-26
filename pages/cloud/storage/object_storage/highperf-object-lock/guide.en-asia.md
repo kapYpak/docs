@@ -1,8 +1,8 @@
 ---
-title: Managing Object Lock (WORM)
+title: Object Storage - Managing Object Lock (WORM)
 slug: s3/managing-object-lock
 excerpt:
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 110
 ---
 
@@ -192,7 +192,7 @@ aws s3api put-object-legal-hold \
 
 To view the Object Lock Legal hold configuration of an object, run:
 
-```bash 
+```bash
 aws s3api get-object-legal-hold \
   --bucket object-lock-bucket \
   --key test.txt

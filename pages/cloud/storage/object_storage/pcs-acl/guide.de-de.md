@@ -1,10 +1,10 @@
 ---
-title: Set up an Access Control List on Object Storage (EN)
+title: Object Storage Swift - Set up an Access Control List on Object Storage (EN)
 slug: pcs/acl
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/pcs/acl'
 excerpt: Here are the concepts for implementing ACLs in Object Storage
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 040
 ---
 
@@ -636,7 +636,7 @@ swift download <container> <largeobject>
 Error downloading object '<container>/<largeobject>': Object GET failed: https://storage.gra.cloud.ovh.net/v1/AUTH_297xxxxxxxxxxxxxxxxxxxxxxxxxx49b/<container>/<largeobject> 409 Conflict  [first 60 chars of response] b'<html><h1>Conflict</h1><p>There was a conflict when trying t'
 ```
 
-You can update the rights on the container to allow the download : 
+You can update the rights on the container to allow the download :
 
 ```bash
 swift post <container_segments> -r "297xxxxxxxxxxxxxxxxxxxxxxxxxx49b:febxxxxxxxxxxxxxxxxxxxxxxxxxxc72"
@@ -676,7 +676,7 @@ swift download <container> <largeobject>
 
 ### DLO
 
-By design, DLO manifests need to dynamically list `<container_segments>`.<br> 
+By design, DLO manifests need to dynamically list `<container_segments>`.<br>
 If .rlistings ACL is only on the "manifest container" you will encounter 403 errors :
 
 ```bash

@@ -1,8 +1,8 @@
 ---
-title: Mémo de commandes Curl
+title: Object Storage Swift - Mémo de commandes Curl
 slug: pca/curl-commands-memo
 excerpt: Retrouvez ici les principales commandes curl pour gérer vos conteneurs d'objets Public Cloud Archive
-section: Public Cloud Archive
+section: Spécificité de la classe de stockage d'archive OpenStack Swift
 order: 060
 ---
 

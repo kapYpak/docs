@@ -1,8 +1,8 @@
 ---
-title: Swift commands Memo
+title: Object Storage Swift - Swift commands Memo
 slug: pcs/swift-commands-memo
 excerpt: Find here the main swift commands to manage your object containers
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 100
 ---
 

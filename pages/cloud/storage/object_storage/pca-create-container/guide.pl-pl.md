@@ -1,8 +1,8 @@
 ---
-title: Tworzenie kontenera Public Cloud Archive
+title: Object Storage Swift - Tworzenie kontenera Public Cloud Archive
 slug: pca/tworzenie-kontenera
 excerpt: Dowiedz się, jak utworzyć Twoje kontenery Public Cloud Archive w Panelu klienta OVHcloud
-section: Public Cloud Archive
+section: OpenStack Swift Archive Storage Class Specifics
 order: 020
 ---
 

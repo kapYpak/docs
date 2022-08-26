@@ -1,8 +1,8 @@
 ---
-title: Getting started with S3 Object Storage
+title: Object Storage - Getting started with S3 Object Storage
 slug: s3/getting-started-with-s3
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 020
 ---
 

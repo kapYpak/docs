@@ -1,8 +1,8 @@
 ---
-title: Utilizza S3 Object Storage con Rclone (EN)
+title: Object Storage - Utilizza S3 Object Storage con Rclone (EN)
 slug: s3/rclone
 excerpt: Learn how to set up Rclone to synchronize your files to and from S3 Object Storage.
-section: Object Storage S3 High Performance
+section: Tutorials
 order: 110
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/rclone/'

@@ -1,8 +1,8 @@
 ---
-title: Mettre en place CORS sur Object Storage
+title: Object Storage Swift - Mettre en place CORS sur Object Storage
 slug: pcs/cors
 excerpt: Retrouvez ici les concepts permettant de mettre en oeuvre CORS.
-section: Object Storage Standard (Swift)
+section: Spécificité de la classe de stockage OpenStack Swift
 order: 050
 ---
 
