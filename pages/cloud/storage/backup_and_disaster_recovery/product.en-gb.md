@@ -12,7 +12,7 @@ sections: Veeam
   flex-direction:column-reverse !important;
 }
 #customProductIndex {
-padding: 0 25px;
+padding:25px;
 }
 #customProductIndex p {
 text-align:justify;

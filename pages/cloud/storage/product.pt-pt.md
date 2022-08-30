@@ -6,7 +6,7 @@ sections:
 ---
 
 <style>
-.row.product {
+.row.product:nth-of-type(1) {
   display: none;
 }
 #customProductIndex {
