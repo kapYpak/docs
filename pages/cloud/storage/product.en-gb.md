@@ -15,7 +15,9 @@ order: 06
 .medium-6 {
   width:100% !important;
 }
-
+.columns > h3 {
+  display:none;
+}
 .doc-list {
   display:flex;
   flex-wrap:wrap;
@@ -37,25 +39,50 @@ order: 06
   height:100%;
   justify-content:center;
   padding:25px 15px;
+  text-align:center;
 }
 .doc-list li a:hover {
   background:#efefef;
+}
+.doc-list li a,
+.doc-list li a:hover,
+.doc-list li a:focus,
+.doc-list li a:active {
   text-decoration:none !important;
 }
 .row.product a {
   color: #000 !important;
 }
 #page a span {
-  display:none;
+  display:contents;
 }
 #customProductIndex {
-padding:25px;
+padding:0 25px 15px;
 }
 #customProductIndex p {
 text-align:justify;
 }
 
+:root {
+  --col-nbrs:1;
+}
+@media screen and (min-width: 40em) {
+:root {
+  --col-nbrs:2;
+}
+}
+@media screen and (min-width: 64em) {
+:root {
+  --col-nbrs:4;
+}
+}
 
+a[href^="block"]:after {
+  content:"In rutrum orci augue, a sollicitudin libero dictum sit";
+  display:block;
+  margin-top:15px;
+  text-align:center;
+}
 
 /*
 .row.product:nth-of-type(1) {
