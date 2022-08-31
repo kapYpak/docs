@@ -77,11 +77,13 @@ text-align:justify;
 }
 }
 
-a[href^="block"]:after {
-  content:"In rutrum orci augue, a sollicitudin libero dictum sit";
+.doc-list li a:after {
   display:block;
   margin-top:15px;
   text-align:center;
+}
+.doc-list li a[href~="block-storage"]:after {
+  content:"In rutrum orci augue, a sollicitudin libero dictum sit";
 }
 
 /*
