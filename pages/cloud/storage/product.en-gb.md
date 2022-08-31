@@ -5,6 +5,59 @@ order: 06
 ---
 
 <style>
+
+#page {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.large-6,
+.medium-6 {
+  width:100% !important;
+}
+
+.doc-list {
+  display:flex;
+  flex-wrap:wrap;
+  margin:0 -15px;
+}
+.doc-list li {
+  padding:15px;
+  border-bottom:none !important;
+  width:50%;
+}
+.doc-list li a {
+  align-content:center;
+  background:#fafafa;
+  border:1px solid #d8d8d8;
+  border-radius:8px;
+  box-shadow:0 2px 5px rgba(0,0,0,0.16), 0 2px 10px rgba(0,0,0,.12%);
+  display:grid;
+  font-size:24px;
+  height:100%;
+  justify-content:center;
+  padding:25px 15px;
+}
+.doc-list li a:hover {
+  background:#efefef;
+  text-decoration:none !important;
+}
+.row.product a {
+  color: #000 !important;
+}
+#page a span {
+  display:none;
+}
+#customProductIndex {
+padding:25px;
+}
+#customProductIndex p {
+text-align:justify;
+}
+
+
+
+/*
 .row.product:nth-of-type(1) {
   display: none;
 }
@@ -85,6 +138,7 @@ padding:0 0 15px;
   --col-nbrs:4;
 }
 }
+*/
 </style>
 
 <div id="customProductIndex">
@@ -92,7 +146,7 @@ padding:0 0 15px;
 <h2>Get started with OVHcloud Storage and Backup solutions</h2>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
-
+<!--
 <ul>
   <li>
     <a href="object-storage/">
@@ -119,5 +173,5 @@ padding:0 0 15px;
     </a>
   </li>
 </ul>
-
+-->
 </div>
