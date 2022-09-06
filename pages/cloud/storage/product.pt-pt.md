@@ -27,7 +27,7 @@ sections:
 .doc-list li {
   padding:15px;
   border-bottom:none !important;
-  width:50%;
+  width:calc(100% / var(--col-nbrs));
 }
 .doc-list li a {
   align-content:center;
