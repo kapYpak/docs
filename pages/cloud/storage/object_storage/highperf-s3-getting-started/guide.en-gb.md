@@ -6,6 +6,7 @@ section: Guides
 order: 020
 ---
 
+- [FOR TEST ONLY](https://docs.ovh.com/gb/en/storages/)
 
 **Last updated 21<sup>st</sup> July 2022**
 
@@ -17,6 +18,8 @@ This guide aims to familiarise you with the management of your containers / obje
 
 - Access to the [OVHcloud Control Panel](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.co.uk/&ovhSubsidiary=GB)
 - an [OpenStack user](https://docs.ovh.com/gb/en/public-cloud/creation-and-deletion-of-openstack-user/)
+
+
 
 ## Instructions
 
