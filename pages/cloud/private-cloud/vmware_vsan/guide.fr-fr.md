@@ -136,4 +136,6 @@ vSan est désormais désactivé.
 
 ## Aller plus loin
 
+[Activation du chiffrement des machines virtuelles avec vSphere Native Key Provider](https://docs.ovh.com/fr/private-cloud/vm-encrypt-vnkp/).
+
 Échangez avec notre communauté d’utilisateurs sur <https://community.ovh.com/>.
