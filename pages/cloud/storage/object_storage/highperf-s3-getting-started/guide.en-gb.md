@@ -7,7 +7,9 @@ order: 020
 ---
 
 
-- [FOR TEST ONLY](https://docs.ovh.com/gb/en/storages/)
+- [FOR TEST ONLY PLEASE REMOVE ME BEFORE MERGE](https://docs.ovh.com/de/storages/)
+- [manager](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.it/&ovhSubsidiary=it)
+- [Public Cloud project](https://www.ovhcloud.com/fr-ca/public-cloud/)
 
 **Last updated 21<sup>st</sup> July 2022**
 
