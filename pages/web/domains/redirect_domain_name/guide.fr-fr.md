@@ -28,7 +28,7 @@ La redirection d'un nom de domaine permet de rediriger un domaine/sous-domaine v
 
 - un autre domaine/sous-domaine déjà existant :
 **Exemple** : domain.tld
-- une URL de site internet :
+- une URL (Uniform Resource Locator) de site internet :
 **Exemple** : http://www.domain.tld/welcome/
 
 Pour faciliter les usages, l'[espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) permet également de "rediriger" sans directement passer par l'interface de gestion de votre [zone DNS OVHcloud](https://docs.ovh.com/fr/domains/editer-ma-zone-dns/#les-enregistrements-dns) un domaine/sous-domaine vers :
@@ -63,7 +63,7 @@ Le tableau affiche les redirections actives pour votre nom de domaine.
 
 ![Étape 1 pour l'ajout d'une redirection](images/adding_redirection_1.png){.thumbnail}
 
-Dans la fenêtre, votre domaine à rediriger apparaît déjà. Renseignez uniquement le formulaire s'il vous souhaitez rediriger un sous-domaine.
+Dans la fenêtre, votre domaine à rediriger apparaît déjà. Renseignez uniquement le formulaire si vous souhaitez rediriger un sous-domaine.
 
 La case `Rediriger aussi`{.action} peut être cochée pour rediriger également votre sous-domaine en *"www"* vers la même cible que votre domaine/sous-domaine.
 
@@ -92,6 +92,8 @@ Vous pouvez également réaliser cette action depuis la [zone DNS](https://docs.
 > À partir de ce point, ce guide abordera uniquement la redirection **vers une adresse web**. Concernant l'autre possibilité, rapprochez-vous de votre prestataire afin de connaître les enregistrements DNS que vous devrez modifier avant de poursuivre la démarche.
 >
 
+Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 3.
+
 Pour une redirection **vers une adresse web**, choisissez le type de redirection que vous souhaitez mettre en place parmi les suivantes :
 
 |Type de redirection|Description|
@@ -110,6 +112,8 @@ Cette encapsulation permet de s'assurer que les visiteurs de votre site ne puiss
 
 ![Choix entre redirection visible et invisible](images/redirection_3xx_1.png){.thumbnail}
 
+Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 4.
+
 #### Pour une redirection visible
 
 Pour la **redirection visible**, deux choix sont possibles.
@@ -123,7 +127,7 @@ Une fois votre choix fait, renseignez la cible de la redirection (l'adresse web/
 
 ![Choix entre redirection visible permanente ou temporaire](images/redirection_3xx_2.png){.thumbnail}
 
-Une fois les informations complétées, cliquez sur `Suivant`{.action}, assurez-vous que les informations affichées soient bien correctes, puis cliquez sur `Confirmer`{.action}.
+Une fois les informations complétées, cliquez sur `Suivant`{.action} pour accéder à l'étape 5, assurez-vous que les informations affichées soient bien correctes, puis cliquez sur `Confirmer`{.action}.
 
 > [!primary]
 >
@@ -132,7 +136,7 @@ Une fois les informations complétées, cliquez sur `Suivant`{.action}, assurez-
 
 #### Pour une redirection invisible
 
-Concernant la redirection invisible (code HTTP 200), complétez les informations qui s'affichent (adresse web et options) puis cliquez sur `Suivant`{.action}. Assurez-vous que les informations affichées soient correctes avant de cliquer sur `Confirmer`{.action}.
+Concernant la redirection invisible (code HTTP 200), complétez les informations qui s'affichent (adresse web et options) puis cliquez sur `Suivant`{.action} pour accéder à l'étape 5. Assurez-vous que les informations affichées soient correctes avant de cliquer sur `Confirmer`{.action}.
 
 |Champs|Description|
 |---|---|
