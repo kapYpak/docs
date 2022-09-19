@@ -70,7 +70,7 @@ Cette option permet, après la saisie du domaine redirigé, d'afficher le domain
 Cette redirection « standard » retournera un code HTTP 301.
 
 > [!tabs]
-> Etape 1
+> **Etape 1**
 >>
 >> Dans la fenêtre, votre domaine à rediriger apparaît déjà. Renseignez **uniquement** le formulaire si vous souhaitez rediriger un *sous-domaine*.
 >>
@@ -80,7 +80,7 @@ Cette redirection « standard » retournera un code HTTP 301.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 2.
 >>
-> Etape 2
+> **Etape 2**
 >>
 >> Sélectionnez `Vers une adresse Web`{.action} parmi les deux choix indiqués.
 >>
@@ -88,7 +88,7 @@ Cette redirection « standard » retournera un code HTTP 301.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 3.
 >>
-> Etape 3
+> **Etape 3**
 >>
 >> Sélectionnez `avec une redirection visible.`{.action} parmi les deux choix indiqués.
 >>
@@ -96,7 +96,7 @@ Cette redirection « standard » retournera un code HTTP 301.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 4.
 >>
-> Etape 4
+> **Etape 4**
 >>
 >> Sélectionnez `Permanente (301) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web`{.action} qui s'affiche.
 >>
@@ -104,7 +104,7 @@ Cette redirection « standard » retournera un code HTTP 301.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 5.
 >>
-> Etape 5
+> **Etape 5**
 >>
 >> Dans cette dernière étape, assurez-vous que les informations affichées soient bien correctes.
 >>
@@ -129,7 +129,7 @@ Toutefois, celle-ci est à utiliser ponctuellement comme pour des événements �
 Cette option retournera un code HTTP 302.
 
 > [!tabs]
-> Etape 1
+> **Etape 1**
 >>
 >> Dans la fenêtre, votre domaine à rediriger apparaît déjà. Renseignez **uniquement** le formulaire si vous souhaitez rediriger un *sous-domaine*.
 >>
@@ -139,7 +139,7 @@ Cette option retournera un code HTTP 302.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 2.
 >>
-> Etape 2
+> **Etape 2**
 >>
 >> Sélectionnez `Vers une adresse Web`{.action} parmi les deux choix indiqués.
 >>
@@ -147,7 +147,7 @@ Cette option retournera un code HTTP 302.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 3.
 >>
-> Etape 3
+> **Etape 3**
 >>
 >> Sélectionnez `avec une redirection visible.`{.action} parmi les deux choix indiqués.
 >>
@@ -155,7 +155,7 @@ Cette option retournera un code HTTP 302.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 4.
 >>
-> Etape 4
+> **Etape 4**
 >>
 >> Sélectionnez `Temporaire (302) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web`{.action} qui s'affiche.
 >>
@@ -163,7 +163,7 @@ Cette option retournera un code HTTP 302.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 5.
 >>
-> Etape 5
+> **Etape 5**
 >>
 >> Dans cette dernière étape, assurez-vous que les informations affichées soient bien correctes.
 >>
@@ -197,7 +197,7 @@ Cette option retournera un code HTTP 200.
 >
 
 > [!tabs]
-> Etape 1
+> **Etape 1**
 >>
 >> Dans la fenêtre, votre domaine à rediriger apparaît déjà. Renseignez **uniquement** le formulaire si vous souhaitez rediriger un *sous-domaine*.
 >>
@@ -207,7 +207,7 @@ Cette option retournera un code HTTP 200.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 2.
 >>
-> Etape 2
+> **Etape 2**
 >>
 >> Sélectionnez `Vers une adresse Web`{.action} parmi les deux choix indiqués.
 >>
@@ -215,7 +215,7 @@ Cette option retournera un code HTTP 200.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 3.
 >>
-> Etape 3
+> **Etape 3**
 >>
 >> Sélectionnez `avec une redirection invisible.`{.action} parmi les deux choix indiqués.
 >>
@@ -223,7 +223,7 @@ Cette option retournera un code HTTP 200.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 4.
 >>
-> Etape 4
+> **Etape 4**
 >>
 >> Sélectionnez `Temporaire (iframe) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web`{.action} qui s'affiche.
 >>
@@ -236,7 +236,7 @@ Cette option retournera un code HTTP 200.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 5.
 >>
-> Etape 5
+> **Etape 5**
 >>
 >> Dans cette dernière étape, assurez-vous que les informations affichées soient bien correctes.
 >>
