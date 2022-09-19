@@ -171,9 +171,11 @@ Vous pouvez retrouver l'ensemble de notre documentation sur le ".htaccess" dans 
 > Nous vous conseillons de **réaliser une sauvegarde de votre fichier .htaccess** avant d'y effectuer des modifications pour rétablir la version antérieure si besoin.
 >
 
+Il existe plusieurs variables pour effectuer des redirections via le fichier ".htaccess" :
+
 - **Redirect permanent**
 
-Le code envoyé sera un code HTTP 301. Il prévient les robots des moteurs de recherche qu'il faut mettre à jour leurs liens vers la nouvelle adresse.
+Le code envoyé par cette variable sera un code HTTP 301. Il prévient les robots des moteurs de recherche qu'il faut mettre à jour leurs liens vers la nouvelle adresse/URL.
 
 Voici le code à ajouter pour rediriger le site en entier :
 
@@ -181,16 +183,14 @@ Voici le code à ajouter pour rediriger le site en entier :
 Redirect permanent / http://domain.tld/
 ```
 
-Pour changer un répertoire/fichier :
+Vous pouvez aussi l'utiliser pour remplacer le nom affiché d'un répertoire/fichier dans votre URL :
 
 ```bash
 Redirect permanent /ancien_repertoire http://nouveau-site.tld/nouveau_repertoire
 Redirect permanent /ancien_fichier.php http://site.tld/nouveau_fichier.php
 ```
 
-- **Redirect gone**
-
-Si un fichier n’existe plus, il est préférable de remplacer le message *404 document non trouvé* par un message plus explicite de type *410 le document n’existe plus* :
+- **Redirect gone** : Utile pour les fichiers supprimés, remplace le message *404 document non trouvé* par un message plus explicite de type *410 le document n’existe plus* :
 
 ```bash
 Redirect gone /supprime.html
