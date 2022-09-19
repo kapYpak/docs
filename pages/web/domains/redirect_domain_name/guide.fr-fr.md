@@ -31,7 +31,7 @@ Cette fonctionnalité permet de rediriger un domaine/sous-domaine vers :
 - une URL (Uniform Resource Locator) de site internet :
 **Exemples** : http://www.domain.tld/welcome/ ou https://www.domain.tld/welcome/ (si le domaine cible dispose d'un certificat SSL compatible).
 
-Ces actions peuvent être réalisée de plusieurs manières :
+Ces actions peuvent être réalisées de plusieurs manières :
 
 - **depuis l'[espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr)** : un assistant de configuration permet de paramétrer votre redirection
 - **depuis une méthode nécessitant de la programmation** : vous devrez créer vous-même la redirection dans un fichier (généralement un [".htaccess"](#htaccess_Rewrite)).
@@ -122,9 +122,9 @@ Cette redirection « standard » retournera un code HTTP 301.
 
 #### **Option 2 : redirection visible temporaire vers une adresse web** :
 
-Comme pour la redirection précédente, cette option permet après la saisie du domaine redirigé, d'afficher le domaine cible dans la barre d'URL de votre navigateur internet au lieu du domaine redirigé.
+Comme pour la redirection précédente, cette option permet après la saisie du domaine redirigé d'afficher le domaine cible dans la barre d'URL de votre navigateur internet au lieu du domaine redirigé.
 
-Toutefois, celle-ci est à utiliser ponctuellement comme pour des événements éphémères.<br> En effet, le positionnement sur les moteurs de recherche est moins bon qu'avec une redirection **visible premanente** de type 301 (code HTTP).
+Toutefois, celle-ci est à utiliser ponctuellement comme pour des événements éphémères.<br> En effet, le positionnement sur les moteurs de recherche est moins performant qu'avec une redirection **visible premanente** de type 301 (code HTTP).
 
 Cette option retournera un code HTTP 302.
 
@@ -181,7 +181,7 @@ Cette option retournera un code HTTP 302.
 
 #### **Option 3 : redirection invisible vers une adresse web** :
 
-Après la saisie du domaine redirigé, celui-ci reste affiché dans la barre d'URL de votre navigateur internet au lieu du domaine cible. <br> **Attention, cette action n'est pas compatible avec tous les sites et affecte le référencement de ce dernier**.
+Cette redirection permet, après la saisie du domaine redirigé, de le laisser affiché dans la barre d'URL de votre navigateur internet au lieu de le remplacer par le domaine cible. <br> **Attention, cette action n'est pas compatible avec tous les sites et affecte le référencement de ce dernier**.
 
 **Exemple** : si vous redirigez *domaine1.tld* vers *domaine2.tld*, c'est *domaine1.tld* qui s'affichera dans la barre d'URL dans votre navigateur.
 
