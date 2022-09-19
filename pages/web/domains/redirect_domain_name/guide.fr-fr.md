@@ -276,3 +276,101 @@ Vous pouvez retrouver l'ensemble de notre documentation sur le ".htaccess" dans 
 >
 > Nous vous conseillons de **réaliser une sauvegarde de votre fichier .htaccess** avant d'y effectuer des modifications pour rétablir la version antérieure si besoin.
 >
+
+Vous trouverez ci-après 4 variables pour effectuer des redirections via le fichier ".htaccess" :
+
+- **1 : "Redirect permanent"**
+
+Permet de rediriger un site dans son ensemble ou seulement une partie d'un site vers un autre site ou une autre partie d'un site. Les visiteurs sont alors automatiquement redirigés vers la bonne adresse/URL lorsqu'ils tentent d'accéder à votre site avec l'adresse/URL historique.
+
+> [!tabs]
+> Code à placer dans le ".htaccess"
+>>
+>> Pour rediriger un site en entier :
+>>
+>>```bash
+>>Redirect permanent / http://domainTarget.tld/
+>>```
+>>
+>> Pour rediriger d'un répertoire vers un autre :
+>>
+>> ```bash
+>>Redirect permanent /old_folder http://domain.tld/new_folder
+>>```
+>>
+>> Pour rediriger d'un fichier vers un autre :
+>>
+>> ```bash
+>>Redirect permanent /old_file.php http://domain.tld/new_file.php
+>>```
+>>
+> Code HTTP
+>>
+>> Le script renverra un code HTTP 301. Cela préviendra les robots des moteurs de recherche qu'il faut mettre à jour leurs liens vers la nouvelle adresse/URL.
+>>
+
+- **2 : "Redirect gone"** :
+
+Utile pour les fichiers supprimés, remplace le message *404 document non trouvé* par un message plus explicite de type *410 le document n’existe plus*. Le visiteur de votre site est informé que le fichier qu'il tente d'appeler n'existe plus.
+
+> [!tabs]
+> Code à placer dans le ".htaccess"
+>>
+>>```bash
+>>Redirect gone /fileDeleted.html
+>>```
+>>
+> Code HTTP
+>>
+>> Le script renverra un code HTTP 410.
+>>
+
+- **3 : "Redirect seeother"**
+
+Si vous changez l’extension d’un fichier, *seeother* permet d'en modifier le type. Le visiteur qui accédait à l'ancien fichier sera automatiquement redirigé vers celui avec la bonne extension.
+
+> [!tabs]
+> Code à placer dans le ".htaccess"
+>>
+>>```bash
+>>Redirect seeother /example.doc http://domain.tld/example.pdf
+>>```
+>>
+> Code HTTP
+>>
+>> Le script renverra un code HTTP 303.
+>>
+
+- **4 : "Redirect Temp"**
+
+Peut être utilisée lorsque vous déplacez temporairement des fichiers sur un autre site. Les visiteurs qui tentent d'accéder à votre site via l'adresse/URL historique sont automatiquement redirigés vers la nouvelle adresse/URL temporaire.
+
+> [!tabs]
+> Code à placer dans le ".htaccess"
+>>
+>>```bash
+>>Redirect temp / http://OtherWebsite.tld/site/
+>>```
+>>
+> Code HTTP
+>>
+>> Le script renverra un code HTTP 302.
+>>
+
+## Aller plus loin <a name="go-further"></a>
+
+[Bloquer l’accès à mon site pour certaines adresses IP via un fichier ".htaccess"](https://docs.ovh.com/fr/hosting/mutualise-htaccess-comment-bloquer-certaines-ip-au-niveau-de-mon-site/).
+
+[Protéger l'interface d'administration de votre site via le ".htaccess"](https://docs.ovh.com/fr/hosting/mutualise-htaccess-comment-proteger-lacces-a-un-repertoire-par-une-authentification/).
+
+[Réécrire vos URLs grâce au « mod_rewrite »](https://docs.ovh.com/fr/hosting/htaccess-reecriture-url-mod-rewrite/).
+
+[Effectuer d'autres opérations avec le fichier ".htaccess"](https://docs.ovh.com/fr/hosting/mutualise-htaccess-les-autres-operations-realisables-avec-des-fichiers-htaccess/).
+
+[Comment éditer ma zone DNS ?](https://docs.ovh.com/fr/domains/editer-ma-zone-dns/)
+
+Pour des prestations spécialisées (référencement, développement, etc), contactez les [partenaires OVHcloud](https://partner.ovhcloud.com/fr/).
+
+Si vous souhaitez bénéficier d'une assistance à l'usage et à la configuration de vos solutions OVHcloud, nous vous proposons de consulter nos différentes [offres de support](https://www.ovhcloud.com/fr/support-levels/).
+
+Échangez avec notre communauté d'utilisateurs sur <https://community.ovh.com>.
