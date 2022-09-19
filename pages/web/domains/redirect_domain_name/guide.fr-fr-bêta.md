@@ -44,9 +44,9 @@ Ces actions peuvent être réalisée de plusieurs manières :
 
 ### Rediriger un nom de domaine via l'espace client
 
-Premièrement, connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr){.external}, rendez-vous dans la partie `Web Cloud`, sélectionnez le domaine à rediriger dans la section `Noms de domaine`{.action}, puis cliquez sur l'onglet `Redirection`{.action}.
+Premièrement, connectez-vous à votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr){.external}, rendez-vous dans la partie `Web Cloud`{.action}, sélectionnez le domaine à rediriger dans la section `Noms de domaine`{.action}, puis cliquez sur l'onglet `Redirection`{.action}.
 
-Le tableau affiche les redirections actives pour votre nom de domaine.
+Le tableau affiche les redirections actives pour votre nom de domaine. Vous pouvez y gérer vos redirections existantes à l'aide des `...`{.action} situés à droite de chaques lignes.
 
 Pour ajouter une redirection, cliquez sur le bouton `Ajouter une redirection`{.action} :
 
@@ -254,7 +254,7 @@ Cette option retournera un code HTTP 200.
 
 > [!primary]
 >
-> La modification nécessite un temps de propagation de 4 à 24 heures maximum avant d’être pleinement effective.
+> Quelque soit la redirection choisie, la modification nécessite un temps de propagation de 4 à 24 heures maximum avant d’être pleinement effective.
 >
 
 ### Rediriger un nom de domaine via un fichier ".htaccess" <a name="htaccess_Rewrite"></a>
