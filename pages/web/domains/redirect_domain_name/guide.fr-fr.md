@@ -61,7 +61,7 @@ Il y a trois options de redirections disponibles depuis l'[espace client OVHclou
 
 Retrouvez ci-après les trois types de redirection détaillés étape par étape :
 
-- **redirection visible permanente vers une adresse web** :
+#### **Option 1 : redirection visible permanente vers une adresse web** :
 
 Cette option permet, après la saisie du domaine redirigé, d'afficher le domaine cible dans la barre d'URL de votre navigateur internet au lieu du domaine redirigé.
 
@@ -98,7 +98,7 @@ Cette redirection « standard » retournera un code HTTP 301.
 >>
 > Etape 4
 >>
->> Sélectionnez `Permanente (301) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web` qui s'affiche.
+>> Sélectionnez `Permanente (301) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web`{.action} qui s'affiche.
 >>
 >> ![Étape 4](images/Step4VisiPerma.png){.thumbnail}
 >>
@@ -120,7 +120,7 @@ Cette redirection « standard » retournera un code HTTP 301.
 >> >
 >>
 
-- **redirection visible temporaire vers une adresse web** :
+#### **Option 2 : redirection visible temporaire vers une adresse web** :
 
 Comme pour la redirection précédente, cette option permet après la saisie du domaine redirigé, d'afficher le domaine cible dans la barre d'URL de votre navigateur internet au lieu du domaine redirigé.
 
@@ -157,7 +157,7 @@ Cette option retournera un code HTTP 302.
 >>
 > Etape 4
 >>
->> Sélectionnez `Temporaire (302) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web` qui s'affiche.
+>> Sélectionnez `Temporaire (302) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web`{.action} qui s'affiche.
 >>
 >> ![Étape 4](images/Step4VisiTempo.png){.thumbnail}
 >>
@@ -179,7 +179,7 @@ Cette option retournera un code HTTP 302.
 >> >
 >>
 
-- **redirection invisible vers une adresse web** :
+#### **Option 3 : redirection invisible vers une adresse web** :
 
 Après la saisie du domaine redirigé, celui-ci reste affiché dans la barre d'URL de votre navigateur internet au lieu du domaine cible. <br> **Attention, cette action n'est pas compatible avec tous les sites et affecte le référencement de ce dernier**.
 
@@ -225,13 +225,13 @@ Cette option retournera un code HTTP 200.
 >>
 > Etape 4
 >>
->> Sélectionnez `Temporaire (iframe) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web` qui s'affiche.
+>> Sélectionnez `Temporaire (iframe) :`{.action} parmi les deux choix indiqués puis saisissez le domaine ou l'URL cible de votre redirection dans le formulaire `Adresse web`{.action} qui s'affiche.
 >>
 >> ![Étape 4](images/Step4Invi.png){.thumbnail}
 >>
->> Trois paramètres optionnels sont mis à votre disposition dans cette étape :
->> - **Titre** : Celui de votre site internet. Il s'affichera en tant que titre de page dans l'onglet des navigateurs internet.
->> - **Mots clés** : Peuvent être utilisés par les moteurs de recherche pour partiellement référencer la page.
+>> Trois paramètres optionnels sont mis à votre disposition dans cette étape :<br>
+>> - **Titre** : Celui de votre site internet. Il s'affichera en tant que titre de page dans l'onglet des navigateurs internet.<br>
+>> - **Mots clés** : Peuvent être utilisés par les moteurs de recherche pour partiellement référencer la page.<br>
 >> - **Description** : Concerne votre site internet. Elle sera utilisée par les moteurs de recherche dans leurs résultats.
 >>
 >> Cliquez sur `Suivant`{.action} pour poursuivre à l'étape 5.
