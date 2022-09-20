@@ -6,13 +6,13 @@ section: "Tâches courantes"
 order: 01
 ---
 
-**Dernière mise à jour le 15/09/2022**
+**Dernière mise à jour le 20/09/2022**
 
 ## Objectif
 
 La redirection d'un nom de domaine consiste à rediriger celui-ci vers une nouvelle cible. Différents types de redirections existent, répondant chacun à un besoin spécifique.
 
-**Découvrez les différents types de redirections et comment en créer une pour un nom de domaine géré par OVHcloud.**
+**Découvrez différentes manières de rediriger votre nom de domaine**
 
 ## Prérequis
 
@@ -73,7 +73,7 @@ Cette option permet, après la saisie du domaine redirigé, d'afficher le domain
 
 - **Exemple** : si vous redirigez `domain1.tld` vers `domain2.tld`, c'est `domain2.tld` qui s'affichera dans la barre d'adresses dans votre navigateur.
 
-Cette redirection « standard » retournera un code HTTP 301.
+> Cette redirection « standard » retournera un code HTTP 301.
 
 > [!success]
 > Cliquez sur les onglets ci-dessous pour afficher successivement chacune des 5 étapes.
@@ -91,7 +91,7 @@ Cette redirection « standard » retournera un code HTTP 301.
 >>
 > **Etape 2**
 >>
->> Sélectionnez `Vers une adresse Web`{.action} parmi les deux choix indiqués.
+>> Sélectionnez `Vers une adresse Web`{.action}.
 >>
 >> ![Étape 2](images/Step2.png){.thumbnail}
 >>
@@ -136,7 +136,7 @@ Comme pour l'option 1, cette option permet d'afficher, après la saisie du domai
 Toutefois, celle-ci est à utiliser ponctuellement, par exemple pour des événements éphémères.<br>
 En effet, le positionnement sur les moteurs de recherche est moins performant qu'avec une redirection **visible permanente** de type 301 (code HTTP).
 
-Cette option retournera un code HTTP 302.
+> Cette redirection retournera un code HTTP 302.
 
 > [!success]
 > Cliquez sur les onglets ci-dessous pour afficher successivement chacune des 5 étapes.
@@ -154,7 +154,7 @@ Cette option retournera un code HTTP 302.
 >>
 > **Etape 2**
 >>
->> Sélectionnez `Vers une adresse Web`{.action} parmi les deux choix indiqués.
+>> Sélectionnez `Vers une adresse Web`{.action}.
 >>
 >> ![Étape 2](images/Step2.png){.thumbnail}
 >>
@@ -203,7 +203,7 @@ La redirection invisible fonctionne avec une balise HTML *iFrame*. Celle-ci perm
 
 Cette encapsulation permet d'empêcher les visiteurs de votre site de visualiser le domaine cible
 
-Cette option retournera un code HTTP 200.
+> Cette option retournera un code HTTP 200.
 
 > [!warning]
 >
@@ -226,7 +226,7 @@ Cette option retournera un code HTTP 200.
 >>
 > **Etape 2**
 >>
->> Sélectionnez `Vers une adresse Web`{.action} parmi les deux choix indiqués.
+>> Sélectionnez `Vers une adresse Web`{.action}.
 >>
 >> ![Étape 2](images/Step2.png){.thumbnail}
 >>
