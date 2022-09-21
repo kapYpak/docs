@@ -136,6 +136,8 @@ Comme pour l'option 1, cette option permet d'afficher, après la saisie du domai
 Toutefois, celle-ci est à utiliser ponctuellement, par exemple pour des événements éphémères.<br>
 En effet, le positionnement sur les moteurs de recherche est moins performant qu'avec une redirection **visible permanente** de type 301 (code HTTP).
 
+- **Exemple** : si vous redirigez `domain1.tld` vers `domain2.tld`, c'est `domain2.tld` qui s'affichera dans la barre d'adresses dans votre navigateur.
+
 > Cette redirection retournera un code HTTP 302.
 
 > [!success]
