@@ -69,6 +69,8 @@ Cette redirection, dite « permanente », présente un intérêt lorsque vous so
 
 **Exemple** : si vous redirigez *domaine1.tld* vers *domaine2.tld*, c'est *domaine2.tld* qui s'affichera dans la barre d'URL dans votre navigateur.
 
+![Gif1](images/redirect1.gif){.thumbnail}
+
 > Cette redirection « standard » retournera un code HTTP 301.
 
 > [!tabs]
@@ -128,6 +130,10 @@ Lorsque vous saisissez le domaine à rediriger, cette redirection permet d'affic
 
 Cette redirection dite « temporaire » est à utiliser, par exemple, pour un événement éphémère. Votre nom de domaine d'origine conservera sa position dans un moteur de recherche tandis que le nom de domaine cible ne sera pas visible dans celui-ci.
 
+**Exemple** : si vous redirigez *domaine1.tld* vers *domaine2.tld*, c'est *domaine2.tld* qui s'affichera dans la barre d'URL dans votre navigateur.
+
+![Gif1](images/redirect1.gif){.thumbnail}
+
 > Cette redirection retournera un code HTTP 302.
 
 > [!tabs]
@@ -186,6 +192,8 @@ Cette redirection dite « temporaire » est à utiliser, par exemple, pour un é
 Lorsque vous saisissez le nom de domaine à rediriger, son URL sera conservée dans la barre d'adresse de votre navigateur internet, mais c'est le contenu du nom de domaine cible qui sera affiché. <br> **Attention, cette action n'est pas compatible avec tous les sites et affecte le référencement de ce dernier**.
 
 **Exemple** : si vous redirigez *domain1.tld* vers *domain2.tld*, c'est *domain1.tld* qui s'affichera dans la barre d'URL dans votre navigateur et le contenu du site *domain2.tld*.
+
+![Gif2](images/redirect2.gif){.thumbnail}
 
 La redirection invisible fonctionne avec une balise HTML *iFrame*. Celle-ci permet à votre domaine redirigé d'intégrer dans sa propre page HTML le contenu de l'autre page du domaine cible.
 
