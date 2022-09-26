@@ -21,12 +21,12 @@ NAS-HA OVHcloud umożliwia tworzenie i zarządzanie wolumenami plików dostępny
 ## Wymagania początkowe
 
 - Usługa [NAS-HA OVHcloud](https://www.ovh.pl/nas/)
-- Zapoznaj się z naszym przewodnikiem Pierwsze kroki z [API OVHcloud](../../api/first-steps-with-ovh-api/), aby zapoznać się z APIv6 OVHcloud
+- Zapoznaj się z naszym przewodnikiem Pierwsze kroki z [API OVHcloud](https://docs.ovh.com/pl/storage/api/first-steps-with-ovh-api), aby zapoznać się z APIv6 OVHcloud
 
 ## W praktyce
 
 > [!primary]
-> Przejdź na [stronę FAQ NAS-HA](../faq-nas/), aby uzyskać szczegółowe informacje dotyczące funkcji snapshot.
+> Przejdź na [stronę FAQ NAS-HA](https://docs.ovh.com/pl/storage/api/faq-nas), aby uzyskać szczegółowe informacje dotyczące funkcji snapshot.
 >
 
 Wszystkie drogi API w tym przewodniku są dostępne w sekcji */dedicated/nasha*: <https://api.ovh.com/console/#/dedicated/nasha>.
@@ -296,8 +296,8 @@ Więcej informacji znajduje się w sekcji [Sprawdź również](#gofurther) ten p
 
 ## Sprawdź również
 
-[Montowanie przestrzeni dyskowej NAS przy użyciu protokołu NFS](../nas-nfs/)
+[Montowanie przestrzeni dyskowej NAS przy użyciu protokołu NFS](https://docs.ovh.com/pl/storage/api/nas-nfs)
 
-[Skonfigurować NAS na serwerze Windows poprzez CIFS](../nas-cifs/)
+[Skonfigurować NAS na serwerze Windows poprzez CIFS](https://docs.ovh.com/pl/storage/api/nas-cifs)
 
 Przyłącz się do społeczności naszych użytkowników na stronie <https://community.ovh.com/en/>.

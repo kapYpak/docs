@@ -1,6 +1,6 @@
 ---
 title: 'Probar el rendimiento de Cloud Disk Array'
-slug: benchmark-io
+slug: ceph-io-benchmarking
 excerpt: 'Cómo hacer un benchmark del rendimiento de la solución de almacenamiento Cloud Disk Array'
 section: 'Cloud Disk Array'
 ---

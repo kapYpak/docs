@@ -1,6 +1,6 @@
 ---
 title: Pierwsze kroki z usługą NAS HA
-slug: nas/pierwsze-kroki
+slug: nas/get-started
 excerpt: Dowiedz się, jak zarządzać usługą NAS-HA w Panelu klienta OVHcloud
 section: NAS
 order: 01

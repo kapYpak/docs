@@ -1,6 +1,6 @@
 ---
 title: Object Storage - Optimisez l'envoi de vos fichiers vers S3 Object Storage
-slug: s3/optimisez-l-envoi-de-vos-fichiers
+slug: s3/optimise-the-sending-of-your-files
 excerpt:
 section: Tutoriels
 order: 040

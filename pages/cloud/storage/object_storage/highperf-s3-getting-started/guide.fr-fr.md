@@ -1,6 +1,6 @@
 ---
 title: Object Storage - Débuter avec S3 Object Storage
-slug: s3/debuter-avec-s3
+slug: s3/getting-started-with-s3
 excerpt:
 section: Guides
 order: 020

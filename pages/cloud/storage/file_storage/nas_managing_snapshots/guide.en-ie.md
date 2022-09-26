@@ -17,12 +17,12 @@ OVHcloud HA-NAS allows you to create and manage file volumes that can be accesse
 ## Requirements
 
 - An OVHcloud [HA-NAS service](https://www.ovh.ie/nas/)
-- Consulting the [OVHcloud API first steps guide](../../api/first-steps-with-ovh-api/) to familiarise yourself with the OVHcloud APIv6
+- Consulting the [OVHcloud API first steps guide](https://docs.ovh.com/ie/en/storage/api/first-steps-with-ovh-api) to familiarise yourself with the OVHcloud APIv6
 
 ## Instructions
 
 > [!primary]
-> Please visit the [HA-NAS FAQ page](../faq-nas/) for detailed information on the snapshot function.
+> Please visit the [HA-NAS FAQ page](https://docs.ovh.com/ie/en/storage/api/faq-nas) for detailed information on the snapshot function.
 >
 
 All API routes in this guide are available in the section */dedicated/nasha*: <https://api.ovh.com/console/#/dedicated/nasha>.
@@ -293,8 +293,8 @@ You can find more information in the [Go further](#gofurther) section of this gu
 
 ## Go further
 
-[Mount your NAS via NFS share](../nas-nfs/)
+[Mount your NAS via NFS share](https://docs.ovh.com/ie/en/storage/api/nas-nfs)
 
-[Mount your NAS on Windows Server via CIFS](../nas-cifs/)
+[Mount your NAS on Windows Server via CIFS](https://docs.ovh.com/ie/en/storage/api/nas-cifs)
 
 Join our community of users on <https://community.ovh.com/en/>.

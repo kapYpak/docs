@@ -1,6 +1,6 @@
 ---
 title: Accéder au cluster en utilisant le client rbd
-slug: ceph/utilisation-cluster-avec-rbd
+slug: ceph/use-your-cluster-with-rbd
 excerpt: Ce guide vous présente comment avoir accès à votre cluster en utilisant le client rbd.
 section: Cloud Disk Array
 ---
@@ -13,10 +13,10 @@ Il existe différentes façons d'utiliser votre grappe Ceph. Nous allons décrir
 
 Vous devez d'abord vous assurer que vous avez bien effectué ces démarches :
 
-- [Créer un pool](../creer-un-pool)
-- [Créer-un-utilisateur](../creer-un-utilisateur)
-- [Ajouter des droits à un utilisateur sur un pool](../changer-droits-utilisateurs)
-- [Ajouter un IP ACL](../creer-ip-acl) pour permettre à votre serveur de contacter le cluster
+- [Créer un pool](https://docs.ovh.com/fr/storage/ceph/creer-un-pool)
+- [Créer-un-utilisateur](https://docs.ovh.com/fr/storage/ceph/creer-un-utilisateur)
+- [Ajouter des droits à un utilisateur sur un pool](https://docs.ovh.com/fr/storage/ceph/changer-droits-utilisateurs)
+- [Ajouter un IP ACL](https://docs.ovh.com/fr/storage/ceph/creer-ip-acl) pour permettre à votre serveur de contacter le cluster
 
 ## En pratique
 

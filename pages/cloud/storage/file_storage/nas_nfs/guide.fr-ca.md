@@ -1,6 +1,6 @@
 ---
 title: Monter votre NAS via un partage NFS
-slug: nas/nas-nfs
+slug: nas-nfs
 excerpt: Decouvrez ici comment monter un NAS via un partage NFS.
 section: NAS
 order: 03

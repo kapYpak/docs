@@ -21,12 +21,12 @@ OVHcloud HA-NAS Dienste ermöglichen Ihnen die Verwaltung zentral gespeicherter 
 ## Voraussetzungen
 
 - Sie haben ein [OVHcloud HA-NAS](https://www.ovh.com/de/nas/) in Ihrem Kunden-Account.
-- Sie haben sich anhand der [Anleitung zu den ersten Schritten mit der OVHcloud API](../../api/first-steps-with-ovh-api/) mit der Verwendung der OVHcloud APIv6 vertraut gemacht.
+- Sie haben sich anhand der [Anleitung zu den ersten Schritten mit der OVHcloud API](https://docs.ovh.com/de/storage/api/first-steps-with-ovh-api) mit der Verwendung der OVHcloud APIv6 vertraut gemacht.
 
 ## In der praktischen Anwendung
 
 > [!primary]
-> Detaillierte technische Informationen zur Snapshot-Funktion finden Sie auf der [HA-NAS FAQ-Seite](../faq-nas/).
+> Detaillierte technische Informationen zur Snapshot-Funktion finden Sie auf der [HA-NAS FAQ-Seite](https://docs.ovh.com/de/storage/api/faq-nas).
 >
 
 
@@ -297,8 +297,8 @@ Zusätzliche Hilfe finden Sie unter "[Weiterführende Informationen](#gofurther)
 
 ## Weiterführende Informationen
 
-[NAS via NFS-Freigabe mounten](../nas-nfs/)
+[NAS via NFS-Freigabe mounten](https://docs.ovh.com/de/storage/api/nas-nfs)
 
-[NAS auf Windows Server über CIFS mounten](../nas-cifs/)
+[NAS auf Windows Server über CIFS mounten](https://docs.ovh.com/de/storage/api/nas-cifs)
 
 Für den Austausch mit unserer Community gehen Sie auf <https://community.ovh.com/en/>.

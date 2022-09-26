@@ -1,6 +1,6 @@
 ---
 title: Iniziare a utilizzare un NAS-HA
-slug: nas/iniziare
+slug: nas/get-started
 excerpt: Come gestire un NAS-HA dallo Spazio Cliente OVHcloud
 section: NAS
 order: 01

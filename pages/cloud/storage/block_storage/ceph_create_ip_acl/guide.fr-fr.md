@@ -1,6 +1,6 @@
 ---
 title: Création d'une ACL IP 
-slug: ceph/creer-ip-acl
+slug: ceph/create-an-ip-acl
 excerpt: Ce qui vous présente comment créer une ACL IP pour autoriser l'accès au cluster CEPH.
 section: Cloud Disk Array
 ---

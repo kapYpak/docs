@@ -1,6 +1,6 @@
 ---
 title: Création d'utilisateurs
-slug: ceph/creer-un-utilisateur
+slug: ceph/create-a-user
 excerpt: Ce qui vous présente comment créer un nouvel utilisateur.
 section: Cloud Disk Array
 ---

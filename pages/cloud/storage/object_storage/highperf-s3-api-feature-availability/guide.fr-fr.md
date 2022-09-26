@@ -1,6 +1,6 @@
 ---
 title: Object Storage - Compatibilité S3
-slug: s3/compatibilite-s3
+slug: s3/s3-compliancy
 excerpt:
 section: Informations générales
 order: 010
