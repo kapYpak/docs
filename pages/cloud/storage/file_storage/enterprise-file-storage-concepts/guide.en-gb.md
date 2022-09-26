@@ -66,7 +66,7 @@ A rule consists of a source IP address of your network in the format x.x.x.x/x a
 > You can create one or more rules per volume.
 >
 
-You can find more information in the guide [“Managing volume ACLs”](https://docs.ovh.com/gb/en/storahttps://docs.ovh.com/gb/en/storage/netapp-volume-acl).
+You can find more information in the guide [“Managing volume ACLs”](https://docs.ovh.com/gb/en/storage/netapp-volume-acl).
 
 ### The working principle of snapshots
 

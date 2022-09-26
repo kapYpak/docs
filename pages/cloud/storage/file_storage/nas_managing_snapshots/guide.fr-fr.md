@@ -10,7 +10,7 @@ order: 09
 
 ## Objectif
 
-Les NAS-HA OVHcloud vous permettent de créer et de gérer des volumes de fichiers accessibles depuis un réseau. 
+Les NAS-HA OVHcloud vous permettent de créer et de gérer des volumes de fichiers accessibles depuis un réseau.
 
 **Ce guide vous explique comment gérer les snapshots d'une partition NAS-HA via l'API OVHcloud.**
 
@@ -22,7 +22,7 @@ Les NAS-HA OVHcloud vous permettent de créer et de gérer des volumes de fichie
 ## En pratique
 
 > [!primary]
-> N’hésitez pas à vous rendre sur [la page FAQ NAS-HA](https://docs.ovh.com/fr/storage/api/faq-nas) pour retrouver toutes les informations détaillées concernant la fonction snapshot.
+> N’hésitez pas à vous rendre sur [la page FAQ NAS-HA](https://docs.ovh.com/fr/storage/faq-nas) pour retrouver toutes les informations détaillées concernant la fonction snapshot.
 >
 
 Toutes les routes API de ce guide sont disponibles dans la section */dedicated/nasha* : <https://api.ovh.com/console/#/dedicated/nasha>.
@@ -254,7 +254,7 @@ Utilisez la route suivante pour supprimer un snapshot personnalisé :
 >
 >> > [!api]
 >> >
->> > @api {DELETE} /dedicated/nasha/{serviceName}/partition/{partitionName}/customSnapshot/{name} 
+>> > @api {DELETE} /dedicated/nasha/{serviceName}/partition/{partitionName}/customSnapshot/{name}
 >> >
 >>
 >
@@ -291,8 +291,8 @@ Plus d’informations dans la section [Aller plus loin](#gofurther) de ce guide.
 
 ## Aller plus loin
 
-[Montez votre NAS via un partage NFS](https://docs.ovh.com/fr/storage/nas-nfs)
+[Montez votre NAS via un partage NFS](https://docs.ovh.com/fr/storage/nas/nas-nfs)
 
-[Montez votre NAS sur Windows Server via CIFS](https://docs.ovh.com/fr/storage/nas-cifs)
+[Montez votre NAS sur Windows Server via CIFS](https://docs.ovh.com/fr/storage/nas/nas-cifs)
 
 Échangez avec notre communauté d'utilisateurs sur <https://community.ovh.com/>.

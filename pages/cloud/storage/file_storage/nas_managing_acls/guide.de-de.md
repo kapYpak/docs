@@ -169,6 +169,6 @@ Um eine IP-Adresse oder einen Adressbereich aus der ACL zu löschen, verwenden S
 
 [NAS via NFS-Freigabe mounten](https://docs.ovh.com/de/storage/nas-nfs)
 
-[NAS auf Windows Server über CIFS mounten](https://docs.ovh.com/de/storage/nas-cifs)
+[NAS auf Windows Server über CIFS mounten](https://docs.ovh.com/de/storage/nas/nas-cifs)
 
 Für den Austausch mit unserer Community gehen Sie auf <https://community.ovh.com/en/>.

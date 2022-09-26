@@ -10,7 +10,7 @@ order: 06
 
 ## Objectif
 
-Le service NAS-HA OVHcloud vous permet de gérer du stockage de fichiers accessible depuis un réseau. 
+Le service NAS-HA OVHcloud vous permet de gérer du stockage de fichiers accessible depuis un réseau.
 
 **Ce guide vous donne un aperçu de l'utilisation de votre service NAS-HA via l'API OVHcloud.**
 
@@ -57,7 +57,7 @@ Utilisez la route suivante pour créer une nouvelle partition :
 >> >
 >> >> Le nom interne de votre service NAS
 >> >
->> > **partitionDescription** 
+>> > **partitionDescription**
 >> >
 >> >> Description facultative
 >> >
@@ -204,8 +204,8 @@ Utilisez la route suivante pour supprimer une partition :
 
 ## Aller plus loin
 
-[Montez votre NAS via un partage NFS](https://docs.ovh.com/fr/storage/nas-nfs)
+[Montez votre NAS via un partage NFS](https://docs.ovh.com/fr/storage/nas/nas-nfs)
 
-[Montez votre NAS sur Windows Server via CIFS](https://docs.ovh.com/fr/storage/nas-cifs)
+[Montez votre NAS sur Windows Server via CIFS](https://docs.ovh.com/fr/storage/nas/nas-cifs)
 
 Échangez avec notre communauté d'utilisateurs sur <https://community.ovh.com/>.

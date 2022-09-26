@@ -26,7 +26,7 @@ I NAS-HA OVHcloud permettono di creare e gestire volumi di file accessibili da u
 ## Procedura
 
 > [!primary]
-> Accedi alla [pagina delle FAQ NAS-HA](https://docs.ovh.com/it/storage/api/faq-nas) per recuperare tutte le informazioni relative alla funzione Snapshot.
+> Accedi alla [pagina delle FAQ NAS-HA](https://docs.ovh.com/it/storage/faq-nas) per recuperare tutte le informazioni relative alla funzione Snapshot.
 >
 
 Tutte le rotte API di questa guida sono disponibili nella sezione */dedicated/nasha*: <https://api.ovh.com/console/#/dedicated/nasha>.
@@ -297,6 +297,6 @@ Per maggiori informazioni consulta la sezione [Per saperne di più](#gofurther) 
 
 [Eseguire il mount di un NAS tramite NFS](https://docs.ovh.com/it/storage/nas-nfs)
 
-[Configura il tuo NAS su Windows Server tramite CIFS](https://docs.ovh.com/it/storage/nas-cifs)
+[Configura il tuo NAS su Windows Server tramite CIFS](https://docs.ovh.com/it/storage/nas/nas-cifs)
 
 Contatta la nostra Community di utenti all’indirizzo <https://community.ovh.com/en/>.

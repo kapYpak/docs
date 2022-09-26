@@ -26,7 +26,7 @@ OVHcloud HA-NAS Dienste ermöglichen Ihnen die Verwaltung zentral gespeicherter 
 ## In der praktischen Anwendung
 
 > [!primary]
-> Detaillierte technische Informationen zur Snapshot-Funktion finden Sie auf der [HA-NAS FAQ-Seite](https://docs.ovh.com/de/storage/api/faq-nas).
+> Detaillierte technische Informationen zur Snapshot-Funktion finden Sie auf der [HA-NAS FAQ-Seite](https://docs.ovh.com/de/storage/faq-nas).
 >
 
 
@@ -299,6 +299,6 @@ Zusätzliche Hilfe finden Sie unter "[Weiterführende Informationen](#gofurther)
 
 [NAS via NFS-Freigabe mounten](https://docs.ovh.com/de/storage/nas-nfs)
 
-[NAS auf Windows Server über CIFS mounten](https://docs.ovh.com/de/storage/nas-cifs)
+[NAS auf Windows Server über CIFS mounten](https://docs.ovh.com/de/storage/nas/nas-cifs)
 
 Für den Austausch mit unserer Community gehen Sie auf <https://community.ovh.com/en/>.

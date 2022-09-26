@@ -169,6 +169,6 @@ Para eliminar um endereço IP ou um intervalo de endereços do ACL, utilize a se
 
 [Montar um NAS através de NFS](https://docs.ovh.com/pt/storage/nas-nfs)
 
-[Configure o seu NAS no Windows Server através do CIFS](https://docs.ovh.com/pt/storage/nas-cifs)
+[Configure o seu NAS no Windows Server através do CIFS](https://docs.ovh.com/pt/storage/nas/nas-cifs)
 
 Junte-se à nossa comunidade de utilizadores em <https://community.ovh.com/en/>.

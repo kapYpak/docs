@@ -132,7 +132,7 @@ Utilisez la route suivante pour créer une nouvelle partition :
 >> >
 >> >> Le nom interne de votre service NAS
 >> >
->> > **partitionDescription** 
+>> > **partitionDescription**
 >> >
 >> >> Description facultative
 >> >
@@ -142,7 +142,7 @@ Utilisez la route suivante pour créer une nouvelle partition :
 >> >
 >> > **protocol** *
 >> >
->> >> *NFS*, *CIFS* ou *NFS_CIFS* pour les deux 
+>> >> *NFS*, *CIFS* ou *NFS_CIFS* pour les deux
 >> >
 >> > **size** *
 >> >
@@ -278,8 +278,8 @@ Utilisez la route suivante pour supprimer une partition :
 
 ## Aller plus loin
 
-[Montez votre NAS via un partage NFS](https://docs.ovh.com/ca/fr/storage/nas-nfs)
+[Montez votre NAS via un partage NFS](https://docs.ovh.com/ca/fr/storage/nas/nas-nfs)
 
-[Montez votre NAS sur Windows Server via CIFS](https://docs.ovh.com/ca/fr/storage/nas-cifs)
+[Montez votre NAS sur Windows Server via CIFS](https://docs.ovh.com/ca/fr/storage/nas/nas-cifs)
 
 Échangez avec notre communauté d'utilisateurs sur <https://community.ovh.com/>.
