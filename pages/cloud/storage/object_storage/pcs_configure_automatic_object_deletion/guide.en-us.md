@@ -17,8 +17,8 @@ To easily manage your Object Storage, you may need to define the lifespan of som
 
 ## Requirements
 
-- [Prepare the environment to use the OpenStack API](https://docs.ovh.com/us/en/storage/public-cloud/prepare_the_environment_for_using_the_openstack_api)
-- [Set OpenStack environment variables](https://docs.ovh.com/us/en/storage/public-cloud/set-openstack-environment-variables)
+- [Prepare the environment to use the OpenStack API](https://docs.ovh.com/us/en/public-cloud/prepare_the_environment_for_using_the_openstack_api)
+- [Set OpenStack environment variables](https://docs.ovh.com/us/en/public-cloud/set-openstack-environment-variables)
 
 ## Instructions
 

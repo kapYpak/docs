@@ -16,8 +16,8 @@ Lorsque vous souhaitez télécharger des fichiers volumineux vers Object Storage
 
 ## Prérequis
 
-- [Préparer l'environnement pour utiliser l'API OpenStack](https://docs.ovh.com/ca/fr/storage/public-cloud/preparer-lenvironnement-pour-utiliser-lapi-openstack){.ref} avec le client python-swiftclient.
-- [Charger les variables d'environnement OpenStack](https://docs.ovh.com/ca/fr/storage/public-cloud/charger-les-variables-denvironnement-openstack){.ref}
+- [Préparer l'environnement pour utiliser l'API OpenStack](https://docs.ovh.com/ca/fr/public-cloud/preparer-lenvironnement-pour-utiliser-lapi-openstack){.ref} avec le client python-swiftclient.
+- [Charger les variables d'environnement OpenStack](https://docs.ovh.com/ca/fr/public-cloud/charger-les-variables-denvironnement-openstack){.ref}
 
 ## En pratique
 

@@ -16,8 +16,8 @@ The Swift s3api middleware providing S3 API compatibility has been enabled on al
 
 ## Requirements
 
-- [Prepare the environment to use the OpenStack API](https://docs.ovh.com/us/en/storage/public-cloud/prepare_the_environment_for_using_the_openstack_api)
-- [Get the Openstack RC File v3 from Horizon](https://docs.ovh.com/us/en/storage/public-cloud/access_and_security_in_horizon)
+- [Prepare the environment to use the OpenStack API](https://docs.ovh.com/us/en/public-cloud/prepare_the_environment_for_using_the_openstack_api)
+- [Get the Openstack RC File v3 from Horizon](https://docs.ovh.com/us/en/public-cloud/access_and_security_in_horizon)
 
 ## Instructions
 

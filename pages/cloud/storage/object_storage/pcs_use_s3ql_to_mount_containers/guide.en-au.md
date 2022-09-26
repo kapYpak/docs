@@ -19,8 +19,8 @@ You can find more information directly on their [website](http://www.rath.org/s3
 
 ## Prerequisites
 
-- [Configure user](https://docs.ovh.com/au/en/storage/public-cloud/creation-and-deletion-of-openstack-user)
-- [Add storage space](https://docs.ovh.com/au/en/storage/public-cloud/create_an_object_container)
+- [Configure user](https://docs.ovh.com/au/en/public-cloud/creation-and-deletion-of-openstack-user)
+- [Add storage space](https://docs.ovh.com/au/en/public-cloud/create_an_object_container)
 
 ## Instructions
 
@@ -45,7 +45,7 @@ fs-passphrase: PASSPHRASE
 ```
 
 OS_PROJECT_ID, OS_USERNAME and OS_PASSWORD parameters can be found in your OpenRC file.
-You can follow this guide below in order to retrieve it: [Access and Security in Horizon](https://docs.ovh.com/au/en/storage/public-cloud/access_and_security_in_horizon)
+You can follow this guide below in order to retrieve it: [Access and Security in Horizon](https://docs.ovh.com/au/en/public-cloud/access_and_security_in_horizon)
 
 The REGION_NAME and CT_NAME arguments can be adapted according the name and location of your object container.
 

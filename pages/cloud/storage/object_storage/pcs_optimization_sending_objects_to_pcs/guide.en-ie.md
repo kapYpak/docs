@@ -16,8 +16,8 @@ When you want to upload large files to Object Storage (including videos or disk 
 
 ## Prerequisites
 
-- [Prepare the environment to use the OpenStack API](https://docs.ovh.com/ie/en/storage/public-cloud/prepare_the_environment_for_using_the_openstack_api) with the python-swiftclient client
-- [Setting OpenStack environment variables](https://docs.ovh.com/ie/en/storage/public-cloud/set-openstack-environment-variables)
+- [Prepare the environment to use the OpenStack API](https://docs.ovh.com/ie/en/public-cloud/prepare_the_environment_for_using_the_openstack_api) with the python-swiftclient client
+- [Setting OpenStack environment variables](https://docs.ovh.com/ie/en/public-cloud/set-openstack-environment-variables)
 
 ## Instructions
 

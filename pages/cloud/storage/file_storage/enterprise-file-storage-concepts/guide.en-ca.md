@@ -51,7 +51,7 @@ Once you have ordered your Enterprise File Storage service, you will have a serv
 > - The size of a volume can be scaled up or down.
 >
 
-You can find more information in our guide on [“Managing volumes”](https://docs.ovh.com/ca/en/storahttps://docs.ovh.com/ca/en/storage/netapp-volume-acl).
+You can find more information in our guide on [“Managing volumes”](https://docs.ovh.com/ca/en/storage/netapp-volume-acl).
 
 ### The principle of ACL operation
 

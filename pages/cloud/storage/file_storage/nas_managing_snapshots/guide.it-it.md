@@ -21,7 +21,7 @@ I NAS-HA OVHcloud permettono di creare e gestire volumi di file accessibili da u
 ## Prerequisiti
 
 - Un servizio [NAS-HA OVHcloud](https://www.ovh.it/nas/)
-- Consulta la nostra guida sui [primi passi con l'API OVHcloud](https://docs.ovh.com/it/storage/api/first-steps-with-ovh-api) per familiarizzare con l'APIv6 OVHcloud
+- Consulta la nostra guida sui [primi passi con l'API OVHcloud](https://docs.ovh.com/it/api/first-steps-with-ovh-api) per familiarizzare con l'APIv6 OVHcloud
 
 ## Procedura
 
@@ -295,8 +295,8 @@ Per maggiori informazioni consulta la sezione [Per saperne di più](#gofurther) 
 
 ## Per saperne di più
 
-[Eseguire il mount di un NAS tramite NFS](https://docs.ovh.com/it/storage/api/nas-nfs)
+[Eseguire il mount di un NAS tramite NFS](https://docs.ovh.com/it/storage/nas-nfs)
 
-[Configura il tuo NAS su Windows Server tramite CIFS](https://docs.ovh.com/it/storage/api/nas-cifs)
+[Configura il tuo NAS su Windows Server tramite CIFS](https://docs.ovh.com/it/storage/nas-cifs)
 
 Contatta la nostra Community di utenti all’indirizzo <https://community.ovh.com/en/>.
