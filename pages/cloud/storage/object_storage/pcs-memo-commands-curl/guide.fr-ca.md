@@ -2,7 +2,7 @@
 title: Object Storage Swift - Mémo de commandes Curl
 slug: pcs/curl-commands-memo
 excerpt: Retrouvez ici les principales commandes curl pour gérer vos conteneurs d'objets
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 090
 ---
 

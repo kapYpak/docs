@@ -2,7 +2,7 @@
 title: Object Storage Swift - Gerer ses archives depuis un client Swift (Cyberduck)
 slug: pca/cyberduck
 excerpt: Découvrez comment configurer Cyberduck afin de pouvoir gérer votre Public Cloud Archive
-section: Spécificité de la classe de stockage d'archive OpenStack Swift
+section: Spécificités de la classe de stockage d'archive OpenStack Swift
 order: 080
 ---
 

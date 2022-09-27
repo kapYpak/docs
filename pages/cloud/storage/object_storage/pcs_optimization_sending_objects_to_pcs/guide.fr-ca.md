@@ -1,7 +1,7 @@
 ---
 title: Object Storage Swift - Méthode optimisée pour le téléchargement de fichiers vers Object Storage
 slug: pcs/optimised-method-for-uploading-files-to-object-storage
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 legacy_guide_number: g1951
 order: 130
 ---

@@ -92,5 +92,5 @@ text-align:justify;
 
 <h2>Primeros pasos con los productos de almacenamiento de OVHcloud</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
+<p>Los datos almacenados y sus diferentes usos tienen limitaciones específicas y necesitan una solución adecuada. OVHCloud ofrece guías y tutoriales para entender las soluciones de almacenamiento cloud y adoptar el servicio que mejor se adapte a sus necesidades: almacenamiento de objetos, por bloque o archivos, espacio de archivado de larga duración o solución de backup. Descubra las soluciones alrededor de nuestras 4 grandes familias de almacenamiento.</p>
 </div>

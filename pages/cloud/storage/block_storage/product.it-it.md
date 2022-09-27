@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
+<p>Scopri la nostra soluzione di storage in blocco basata sulla tecnologia CEPH.</p>
 
 </div>

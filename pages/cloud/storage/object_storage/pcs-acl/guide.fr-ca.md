@@ -2,7 +2,7 @@
 title: Object Storage Swift - Mettre en place une Access Control List sur Object Storage
 slug: pcs/acl
 excerpt: Retrouvez ici les concepts permettant de mettre en oeuvre les ACL dans Object Storage
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 040
 ---
 

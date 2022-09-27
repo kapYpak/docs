@@ -92,5 +92,5 @@ text-align:justify;
 
 <h2>Verwendung von OVHcloud Storage und Backup</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
+<p>Die Daten, die Sie speichern, und deren Verwendung haben besondere Einschränkungen und erfordern eine geeignete Lösung. OVHCloud bietet Ihnen in diesem Bereich Anleitungen und Anleitungen für das Verständnis der Cloud-Storage-Lösungen und die Verwendung des Dienstes, der Ihren Bedürfnissen entspricht: Object Storage, Block- oder Dateispeicher, langer Archivierungsbereich oder Backup-Lösung. Entdecken Sie die Lösungen unserer 4 großen Storage-Familien.</p>
 </div>

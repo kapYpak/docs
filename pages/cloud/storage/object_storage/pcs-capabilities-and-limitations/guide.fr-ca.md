@@ -2,7 +2,7 @@
 title: Object Storage Swift - Capacités et limitations
 slug: pcs/capabilities-and-limitations
 excerpt: Retrouvez ici les principales capacités et limitations pour la gestion de vos conteneurs
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 080
 ---
 

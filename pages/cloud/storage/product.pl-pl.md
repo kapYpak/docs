@@ -92,5 +92,5 @@ text-align:justify;
 
 <h2>Wprowadzenie do rozwiązań OVHcloud Storage i Backup</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
+<p>Przechowywane przez Ciebie dane oraz ich różne zastosowania mają specyficzne ograniczenia i wymagają odpowiedniego rozwiązania. W tej sekcji OVHCloud proponuje przewodniki i tutoriale, które pozwolą Ci zrozumieć rozwiązania do przechowywania danych w chmurze i przyjąć usługę odpowiadającą Twoim potrzebom: object storage, blok lub pliki, długotrwała przestrzeń archiwizacji lub rozwiązanie do tworzenia kopii zapasowych. Poznaj rozwiązania naszych 4 największych rodzin przestrzeni dyskowej.</p>
 </div>

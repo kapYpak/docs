@@ -2,7 +2,7 @@
 title: "Object Storage Swift - Premiers pas avec l'API Swift S3"
 excerpt: "Découvrez comment utiliser l'API Swift S3"
 slug: pcs/getting-started-with-the-swift-s3-api
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 020
 ---
 

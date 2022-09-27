@@ -2,7 +2,7 @@
 title: Object Storage Swift - Configurer la suppression automatique des objets
 excerpt: 'Découvrez comment configurer la suppression automatique des fichiers après une période donnée ou à une date précise'
 slug: pcs/configure-automatic-object-deletion
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 legacy_guide_number: g1950
 order: 070
 ---

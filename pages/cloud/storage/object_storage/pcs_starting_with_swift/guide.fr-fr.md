@@ -3,7 +3,7 @@ title: Object Storage Swift - "Débuter avec l’API Swift"
 excerpt: "Découvrez comment utiliser l'API Swift"
 slug: pcs/getting-started-with-the-swift-api
 legacy_guide_number: 1916
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 010
 ---
 

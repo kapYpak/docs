@@ -2,7 +2,7 @@
 title: Object Storage Swift - Synchroniser des conteneurs d’objets
 slug: pcs/sync-object-containers
 legacy_guide_number: 1919
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 060
 ---
 

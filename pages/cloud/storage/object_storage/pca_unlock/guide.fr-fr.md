@@ -2,7 +2,7 @@
 title: Object Storage Swift - Dégeler vos données stockées sur Public Cloud Archive
 slug: pca/unlock
 excerpt: Retrouvez ici comment dégeler vos archives
-section: Spécificité de la classe de stockage d'archive OpenStack Swift
+section: Spécificités de la classe de stockage d'archive OpenStack Swift
 order: 030
 ---
 

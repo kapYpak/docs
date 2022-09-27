@@ -4,7 +4,7 @@ slug: pca/capabilities-and-limitations
 routes:
     canonical: 'https://docs.ovh.com/fr/storage/pcs/capabilities-and-limitations/'
 excerpt: Retrouvez ici les principales capacités et limitations pour la gestion de vos conteneurs
-section: Spécificité de la classe de stockage d'archive OpenStack Swift
+section: Spécificités de la classe de stockage d'archive OpenStack Swift
 order: 050
 ---
 

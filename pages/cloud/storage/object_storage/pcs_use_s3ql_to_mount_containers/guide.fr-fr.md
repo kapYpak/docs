@@ -1,7 +1,7 @@
 ---
 title: Object Storage Swift - Utiliser S3QL pour monter un conteneur Object Storage
 slug: pcs/use-s3ql-to-mount-object-storage-containers
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 legacy_guide_number: g1908
 order: 160
 ---

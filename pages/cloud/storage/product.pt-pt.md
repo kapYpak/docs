@@ -93,5 +93,5 @@ text-align:justify;
 
 <h2>Primeiros passos com os seus produtos de armazenamento e backup OVHcloud</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
+<p>Os dados que armazena e as suas diferentes utilizações têm limitações específicas e requerem uma solução adaptada. Nesta secção, a OVHcloud propõe-lhe manuais e tutoriais para compreender as soluções de armazenamento cloud e adotar o serviço que responde às suas necessidades: armazenamento de objetos, por bloco ou de ficheiros, espaço de arquivo de longa duração ou solução de backup. Descubra as soluções em torno das nossas 4 grandes famílias de armazenamento.</p>
 </div>

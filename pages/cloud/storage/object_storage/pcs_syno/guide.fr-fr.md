@@ -2,7 +2,7 @@
 title: Object Storage Swift - Synchroniser un NAS Synology avec l’Object Storage
 slug: pcs/pcs-syno
 excerpt: Retrouvez ici comment synchroniser un NAS Synology a un conteneur.
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 150
 ---
 

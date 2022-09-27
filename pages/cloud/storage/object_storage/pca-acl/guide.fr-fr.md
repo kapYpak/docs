@@ -4,7 +4,7 @@ slug: pca/acl
 routes:
     canonical: 'https://docs.ovh.com/fr/storage/pcs/acl/'
 excerpt: Retrouvez ici les concepts permettant de mettre en oeuvre les ACL dans Public Cloud Archive
-section: Spécificité de la classe de stockage d'archive OpenStack Swift
+section: Spécificités de la classe de stockage d'archive OpenStack Swift
 order: 040
 ---
 

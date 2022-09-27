@@ -2,7 +2,7 @@
 title: Object Storage Swift - Lier un conteneur a un nom de domaine
 slug: pcs/link-domain
 excerpt: Retrouvez ici comment lier un nom de domaine a un conteneur.
-section: Spécificité de la classe de stockage OpenStack Swift
+section: Spécificités de la classe de stockage OpenStack Swift
 order: 120
 ---
 

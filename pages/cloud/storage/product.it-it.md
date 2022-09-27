@@ -92,5 +92,5 @@ text-align:justify;
 
 <h2>Come utilizzare le soluzioni di storage e backup OVHcloud</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
+<p>I dati archiviati e i loro diversi utilizzi hanno vincoli specifici e richiedono una soluzione adattata. OVHcloud propone in questa sezione guide e tutorial per comprendere le soluzioni di storage Cloud e adottare il servizio che risponde alle tue necessità: storage di oggetti, per blocco o file, spazio di archiviazione a lungo termine o soluzione di backup. Scopri le soluzioni intorno alle 4 grandi famiglie di storage.</p>
 </div>

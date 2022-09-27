@@ -92,5 +92,5 @@ text-align:justify;
 
 <h2>Get started with OVHcloud Storage and Backup solutions</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum bibendum fermentum fermentum. Aenean egestas elementum tellus. Etiam interdum, lacus a fringilla pharetra, est dui suscipit augue, a ultricies arcu neque congue metus. Vestibulum urna ipsum, gravida eu molestie ac, convallis quis ex. Praesent iaculis feugiat vehicula. Proin at dictum urna, non sagittis odio. Sed id consectetur ligula. In rutrum orci augue, a sollicitudin libero dictum sit amet. Ut molestie tempor mauris. Mauris ut posuere velit.</p>
+<p>The data you store and its different uses have specific constraints and require an adapted solution. In this section, OVHcloud offers guides and tutorials for understanding cloud storage solutions and adopting the service that best meets your needs: object, block, or file storage, long-term archiving space, or backup solution. Discover the solutions around our 4 large storage families.</p>
 </div>
