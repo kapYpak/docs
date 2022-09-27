@@ -1,7 +1,7 @@
 ---
 title: "Enterprise File Storage - Gestion depuis l'espace client OVHcloud"
 excerpt: Découvrez comment gérer votre service Enterprise File Storage depuis votre espace client OVHcloud
-slug: netapp-control-panel
+slug: netapp/control-panel
 section: Enterprise File Storage
 order: 2
 ---

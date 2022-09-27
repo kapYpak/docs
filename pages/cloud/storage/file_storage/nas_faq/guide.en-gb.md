@@ -1,6 +1,6 @@
 ---
 title: NAS - Frequently Asked Questions
-slug: faq-nas
+slug: nas/faq
 excerpt: Do you have questions about NAS? Here are the most frequently asked questions
 section: NAS
 order: 02

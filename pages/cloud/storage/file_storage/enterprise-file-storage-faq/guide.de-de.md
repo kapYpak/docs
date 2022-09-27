@@ -1,7 +1,7 @@
 ---
 title: Enterprise File Storage - FAQ
 excerpt: 'FAQ zum Enterprise File Storage Dienst'
-slug: netapp-faq
+slug: netapp/faq
 section: Enterprise File Storage
 order: 7
 ---
@@ -72,7 +72,7 @@ Derzeit noch nicht, aber diese Funktion wird demnächst verfügbar sein (vRack *
 
 Enterprise File Storage ist per Definition nur im OVHcloud Netzwerk verfügbar.<br>
 Es ist jedoch möglich, eine Architektur aufzubauen, die eine Verbindung mit einer Infrastruktur außerhalb dieses Netzwerks ermöglicht.<br>
-Wir empfehlen Ihnen, unsere Ansprechpartner für den Vertrieb oder den technischen Support zu kontaktieren, um eine Infrastruktur zu entwickeln, die Ihrem Ökosystem und Ihrer Lösung entspricht. 
+Wir empfehlen Ihnen, unsere Ansprechpartner für den Vertrieb oder den technischen Support zu kontaktieren, um eine Infrastruktur zu entwickeln, die Ihrem Ökosystem und Ihrer Lösung entspricht.
 
 ## Kapazität und Performance
 
@@ -130,7 +130,7 @@ Ihre Snapshots werden auf demselben Niveau gespeichert wie Ihr Dienst. Die Snaps
 
 ### Wie kann ich die Verwendung von Pools und Volumes nachverfolgen?
 
-Es gibt noch keine integrierten Metriken zur Überwachung der Verwendung von Pools und Volumes. 
+Es gibt noch keine integrierten Metriken zur Überwachung der Verwendung von Pools und Volumes.
 
 ## Preisgestaltung
 

@@ -1,7 +1,7 @@
 ---
 title: Enterprise File Storage - FAQ
 excerpt: 'FAQ sobre a solução Entreprise File Storage'
-slug: netapp-faq
+slug: netapp/faq
 section: Enterprise File Storage
 order: 7
 ---

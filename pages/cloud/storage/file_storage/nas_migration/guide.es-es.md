@@ -1,6 +1,6 @@
 ---
 title: Migración de datos de un NAS-HA a otro a través de NFS
-slug: nas/nas-migration
+slug: nas/migration
 excerpt: Cómo migrar los datos de un NAS-HA a otro mediante NFS compartido.
 section: NAS
 order: 05

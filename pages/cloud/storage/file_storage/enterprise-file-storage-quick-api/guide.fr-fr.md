@@ -1,6 +1,6 @@
 ---
 title: Enterprise File Storage - Premiers pas avec les API
-slug: netapp-quickstart
+slug: netapp/quick-start
 excerpt: Débuter sur votre offre Enterprise File Storage à l’aide des API OVHcloud
 section: Enterprise File Storage
 order: 2
@@ -69,11 +69,11 @@ Pour créer un volume, utilisez la route API suivante :
 >> > **NetAppShare** *
 >> >
 >> >> **description**
->> >> 
+>> >>
 >> >> > Description du volume
->> >> 
+>> >>
 >> >> **name**
->> >> 
+>> >>
 >> >> > Nom du volume
 >> >>
 >> >> **protocole** *
@@ -132,7 +132,7 @@ Pour créer une nouvelle ACL qui vous permettra de vous connecter à votre volum
 >
 
 > [!primary]
-> 
+>
 > En utilisant la notation CIDR, vous pouvez autoriser l'accès au volume depuis la plage d'adresses IP X.X.X.X/X.
 > Par exemple: 192.0.2.0/24
 >

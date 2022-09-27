@@ -1,6 +1,6 @@
 ---
 title: HA-NAS - Erste Schritte mit API
-slug: nas/nas-quickapi
+slug: nas/quick-api
 excerpt: "Erfahren Sie hier die ersten Schritte mit HA-NAS unter Verwendung der OVHcloud API"
 section: NAS
 order: 06
@@ -61,7 +61,7 @@ Verwenden Sie die folgende Route, um eine neue Partition zu erstellen:
 >> >
 >> >> Der interne Name Ihres HA-NAS
 >> >
->> > **partitionDescription** 
+>> > **partitionDescription**
 >> >
 >> >> Optionale Beschreibung
 >> >

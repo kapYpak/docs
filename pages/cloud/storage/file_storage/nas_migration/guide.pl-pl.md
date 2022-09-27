@@ -1,6 +1,6 @@
 ---
 title: Migracja danych z jednego serwera NAS-HA do innego przez NFS
-slug: nas/nas-migration
+slug: nas/migration
 excerpt: Dowiedz się, jak migrować dane z jednego NAS-HA do innego za pomocą zasobu NFS.
 section: NAS
 order: 05

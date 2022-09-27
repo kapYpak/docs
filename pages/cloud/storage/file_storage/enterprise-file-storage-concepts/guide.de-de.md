@@ -1,6 +1,6 @@
 ---
 title: Enterprise File Storage - Konzepte
-slug: netapp-concepts
+slug: netapp/concepts
 excerpt: 'Erfahren Sie hier die Funktionsweise des Angebots Enterprise File Storage'
 section: Enterprise File Storage
 order: 1

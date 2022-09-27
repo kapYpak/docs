@@ -1,6 +1,6 @@
 ---
 title: Enterprise File Storage - Concepts
-slug: netapp-concepts
+slug: netapp/concepts
 excerpt: Find out the basic concepts of Enterprise File Storage
 section: Enterprise File Storage
 order: 1

@@ -1,6 +1,6 @@
 ---
 title: 'Montar um NAS através de NFS'
-slug: nas-nfs
+slug: nas/nfs
 excerpt: 'Saiba como montar um NAS através de NFS'
 section: NAS
 order: 03

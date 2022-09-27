@@ -1,6 +1,6 @@
 ---
 title: Enterprise File Storage - Premiers pas avec les API
-slug: netapp-quickstart
+slug: netapp/quick-start
 excerpt: Débuter sur votre offre Enterprise File Storage à l’aide des API OVHcloud
 section: Enterprise File Storage
 order: 2

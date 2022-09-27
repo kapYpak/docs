@@ -1,6 +1,6 @@
 ---
 title: Enterprise File Storage - Gerir os seus volumes
-slug: netapp-volumes
+slug: netapp/volumes
 excerpt: Saiba como criar e gerir os seus volumes OVHcloud Enterprise File Storage através das API OVHcloud
 section: Enterprise File Storage
 order: 3

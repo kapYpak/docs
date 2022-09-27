@@ -1,6 +1,6 @@
 ---
 title: Enterprise File Storage - Gerir os ACL de um volume
-slug: netapp-volume-acl
+slug: netapp/volume-acl
 excerpt: Saiba como gerir os ACL de um volume Enterprise File Storage através das API OVHcloud
 section: Enterprise File Storage
 order: 4

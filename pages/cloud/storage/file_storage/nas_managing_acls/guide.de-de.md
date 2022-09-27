@@ -1,6 +1,6 @@
 ---
 title: HA-NAS - ACLs verwalten
-slug: nas/nas-manage-acls
+slug: nas/manage-acls
 excerpt: Erfahren Sie hier, wie Sie den Zugriff auf ein HA-NAS mit der OVHcloud API verwalten
 section: NAS
 order: 07

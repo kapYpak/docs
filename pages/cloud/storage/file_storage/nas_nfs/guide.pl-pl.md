@@ -1,6 +1,6 @@
 ---
 title: 'Montowanie przestrzeni dyskowej NAS przy użyciu protokołu NFS'
-slug: nas-nfs
+slug: nas/nfs
 excerpt: 'Dowiedz się, jak zamontować NAS przy użyciu protokołu NFS'
 section: NAS
 order: 03

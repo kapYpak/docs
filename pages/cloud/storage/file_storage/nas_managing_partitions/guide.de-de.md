@@ -1,6 +1,6 @@
 ---
 title: HA-NAS - Partitionsverwaltung über API
-slug: nas/nas-partitions-api
+slug: nas/partitions-api
 excerpt: "Erfahren Sie hier, wie Sie HA-NAS-Partitionen mithilfe der OVHcloud API verwalten"
 section: NAS
 order: 08
@@ -136,7 +136,7 @@ Verwenden Sie die folgende Route, um eine neue Partition zu erstellen:
 >> >
 >> >> Der interne Name Ihres HA-NAS
 >> >
->> > **partitionDescription** 
+>> > **partitionDescription**
 >> >
 >> >> Optionale Beschreibung
 >> >

@@ -1,7 +1,7 @@
 ---
 title: "Enterprise File Storage - Verwaltung über das OVHcloud Kundencenter"
 excerpt: Erfahren Sie hier, wie Sie Ihren Enterprise File Storage Dienst über Ihr OVHcloud Kundencenter verwalten
-slug: netapp-control-panel
+slug: netapp/control-panel
 section: Enterprise File Storage
 order: 2
 ---
@@ -37,7 +37,7 @@ Im Tab `Allgemeine Informationen`{.action} werden technische Informationen zu Ih
 
 ### Verwaltung der Volumes <a name="manage_volume"></a>
 
-Klicken Sie auf den Tab `Volumes`{.action}. Die Tabelle listet alle für den ausgewählten Dienst erstellten Volumes auf. Klicken Sie auf eine Volume-Kennung, um dessen[Verwaltungsseite](#modify_volume) zu öffnen. 
+Klicken Sie auf den Tab `Volumes`{.action}. Die Tabelle listet alle für den ausgewählten Dienst erstellten Volumes auf. Klicken Sie auf eine Volume-Kennung, um dessen[Verwaltungsseite](#modify_volume) zu öffnen.
 
 ![Volumes](images/manage_enterprise02.png){.thumbnail}
 

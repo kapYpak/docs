@@ -15,7 +15,7 @@ Veeam Backup & Replication is a data protection software. It offers its users a 
 
 ## Requirements
 
-- a [Veeam Enterprise solution](https://www.ovhcloud.com/en-ca/storage-solutions/veeam-enterprise/){.external}
+- a [Veeam Enterprise solution](https://www.ovhcloud.com/en-gb/storage-solutions/veeam-enterprise/){.external}
 - Windows Server 2012 or a newer version
 
 ## Instructions

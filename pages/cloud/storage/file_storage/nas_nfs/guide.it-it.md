@@ -1,6 +1,6 @@
 ---
 title: 'Eseguire il mount di un NAS tramite NFS'
-slug: nas-nfs
+slug: nas/nfs
 excerpt: 'Come effettuare il mount di una cartella condivisa su un NAS utilizzando il protocollo NFS'
 section: NAS
 order: 03

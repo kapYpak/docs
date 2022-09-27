@@ -1,6 +1,6 @@
 ---
 title: Migrating data from one HA-NAS to another via NFS
-slug: nas/nas-migration
+slug: nas/migration
 excerpt: Find out how to migrate your data from one HA-NAS to another via an NFS share
 section: NAS
 order: 05

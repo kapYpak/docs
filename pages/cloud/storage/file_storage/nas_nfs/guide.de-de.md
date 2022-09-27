@@ -1,6 +1,6 @@
 ---
 title: 'NAS via NFS-Freigabe einhängen'
-slug: nas-nfs
+slug: nas/nfs
 excerpt: 'Hier erfahren Sie, wie Sie einen NAS via NFS-Freigabe mounten.'
 section: NAS
 order: 03
@@ -19,7 +19,7 @@ In dieser Anleitung erfahren Sie, wie Sie auf den gängigsten Distributionen ein
 
 ### Linux
 
-Kompatibilität: Debian & Ubuntu 
+Kompatibilität: Debian & Ubuntu
 
 Voraussetzungen zum Mounten einer NFS-Freigabe unter Linux:
 
@@ -48,7 +48,7 @@ mount -t nfs -o _netdev,mountproto=tcp IP_NAS:/NFS_PATH /MOUNTING_FOLDER
 > [!primary]
 >
 > Um den NAS-Mount beim Start Ihrer Distribution zu automatisieren, fügen Sie die folgende Zeile zur Datei /etc/fstab hinzu:
-> 
+>
 > ```
 > IP_NAS:/NFS_PATH /MOUNTING_FOLDER nfs rw,_netdev,mountproto=tcp 0 0
 > ```
@@ -101,7 +101,7 @@ mount -t nfs -o _netdev,mountproto=tcp IP_NAS:/NFS_PATH /MOUNTING_FOLDER
 > [!primary]
 >
 > Um den NAS-Mount beim Start Ihrer Distribution zu automatisieren, fügen Sie die folgende Zeile zur Datei /etc/fstab hinzu:
-> 
+>
 > ```
 > IP_NAS:/NFS_PATH /MOUNTING_FOLDER nfs rw,_netdev,mountproto=tcp 0 0
 > ```
@@ -142,13 +142,13 @@ mount -t nfs IP_NAS:/NFS_PATH /MOUNTING_FOLDER
 > [!primary]
 >
 > Um den NAS-Mount beim Start Ihrer Distribution zu automatisieren, fügen Sie die folgende Zeile zur Datei /etc/fstab hinzu:
-> 
+>
 > ```
 > IP_NAS:/NFS_PATH /MOUNTING_FOLDER nfs rw 0 0
 > ```
-> 
+>
 > Fügen Sie anschließend mit folgendem Befehl den Dienst “nfsmount" zum Start Ihres Servers hinzu:
-> 
+>
 > ```
 > rc-update add nfsmount default
 > ```
@@ -183,7 +183,7 @@ Voraussetzungen zum Mounten einer NFS-Freigabe unter Proxmox:
 > [!primary]
 >
 > Um den NAS-Mount beim Start Ihrer Distribution zu automatisieren, fügen Sie die folgende Zeile zur Datei /etc/fstab hinzu:
-> 
+>
 > ```
 > IP_NAS:/CNFS_PATH /MOUNTING_FOLDER nfs rw 0 0
 > ```
@@ -194,7 +194,7 @@ Voraussetzungen zum Mounten einer NFS-Freigabe unter Proxmox:
 Voraussetzungen zum Mounten einer NFS-Freigabe unter ESXi:
 
 - Sie können via vSphere auf Ihren Server zugreifen.
-- Sie befinden sich im Verwaltungspanel im Tab `Inventory`{.action}. 
+- Sie befinden sich im Verwaltungspanel im Tab `Inventory`{.action}.
 
 
 ![Konfiguration](images/esxi_1.jpg){.thumbnail}
@@ -227,7 +227,7 @@ Füllen Sie das nun angezeigte Formular aus:
 > [!alert]
 >
 > Der NFS-Benutzer ist `root`-Benutzer. Rechteänderungen mit diesem Benutzer können daher Konflikte mit vorhandenen CIFS/SMB-Rechten verursachen.
-> 
+>
 
 ## Weiterführende Informationen
 

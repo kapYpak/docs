@@ -1,6 +1,6 @@
 ---
 title: Configure o seu NAS-HA no Windows Server através do CIFS
-slug: nas/nas-cifs
+slug: nas/cifs
 excerpt: Saiba como montar um NAS-HA no Windows Server através do CIFS.
 section: NAS
 order: 04

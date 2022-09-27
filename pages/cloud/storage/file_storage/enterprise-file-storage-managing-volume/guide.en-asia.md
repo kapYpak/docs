@@ -1,6 +1,6 @@
 ---
 title: Enterprise File Storage - Managing volumes
-slug: netapp-volumes
+slug: netapp/volumes
 excerpt: Manage Enterprise File Storage volumes using the OVHcloud API
 section: Enterprise File Storage
 order: 3

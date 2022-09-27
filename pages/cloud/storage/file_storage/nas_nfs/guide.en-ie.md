@@ -1,6 +1,6 @@
 ---
 title: 'Mount your NAS via NFS share'
-slug: nas-nfs
+slug: nas/nfs
 excerpt: 'Find out how to mount a NAS over an NFS share here.'
 section: NAS
 order: 03

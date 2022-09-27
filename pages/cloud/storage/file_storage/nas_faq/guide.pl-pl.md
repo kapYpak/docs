@@ -1,6 +1,6 @@
 ---
 title: Najczęściej zadawane pytania dotyczące technologii NAS
-slug: faq-nas
+slug: nas/faq
 excerpt: Masz pytania dotyczące NAS? Oto odpowiedzi na najczęściej zadawane pytania.
 section: NAS
 order: 02

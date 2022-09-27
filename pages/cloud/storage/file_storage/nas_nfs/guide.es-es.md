@@ -1,6 +1,6 @@
 ---
 title: 'Montar un NAS mediante NFS'
-slug: nas-nfs
+slug: nas/nfs
 excerpt: 'Cómo montar un NAS utilizando el protocolo NFS'
 section: NAS
 order: 03

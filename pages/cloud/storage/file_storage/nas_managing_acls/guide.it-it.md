@@ -1,6 +1,6 @@
 ---
 title: NAS-HA - Gestione delle ACL via API
-slug: nas/nas-manage-acls
+slug: nas/manage-acls
 excerpt: Come gestire gli accessi al NAS-HA via API OVHcloud
 section: NAS
 order: 07

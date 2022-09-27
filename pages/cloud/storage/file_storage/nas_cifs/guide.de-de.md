@@ -1,6 +1,6 @@
 ---
 title: NAS-HA auf Windows Server über CIFS mounten
-slug: nas/nas-cifs
+slug: nas/cifs
 excerpt: Erfahren Sie hier, wie Sie Ihr NAS-HA unter Windows Server über CIFS mounten können
 section: NAS
 order: 04
@@ -45,7 +45,7 @@ net use z: \\10.16.101.8\zpool-000206_PARTITION_NAME_1
 > [!alert]
 >
 > Der SMB/CIFS Benutzer ist `nobody`. Das Ändern von Berechtigungen mit diesem Benutzer kann Konflikte mit bestehenden NFS-Berechtigungen verursachen.
-> 
+>
 
 ## Weiterführende Informationen
 

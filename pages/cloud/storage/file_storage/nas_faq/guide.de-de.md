@@ -1,6 +1,6 @@
 ---
 title: Häufig gestellte Fragen zu NAS
-slug: faq-nas
+slug: nas/faq
 excerpt: Sie haben eine Frage zu NAS? Hier sind die am häufigsten gestellten Fragen und Antworten
 section: NAS
 order: 02
