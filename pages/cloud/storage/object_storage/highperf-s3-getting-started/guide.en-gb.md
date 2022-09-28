@@ -1,15 +1,10 @@
 ---
 title: Object Storage - Getting started with S3 Object Storage
-slug: s3/getting-started-with-s3
+slug: s3/getting-started-with-aws-cli
 excerpt:
 section: Guides
 order: 020
 ---
-
-
-- [FOR TEST ONLY PLEASE REMOVE ME BEFORE MERGE](https://docs.ovh.com/de/storages/)
-- [manager](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.it/&ovhSubsidiary=it)
-- [Public Cloud project](https://www.ovhcloud.com/fr-ca/public-cloud/)
 
 **Last updated 21<sup>st</sup> July 2022**
 

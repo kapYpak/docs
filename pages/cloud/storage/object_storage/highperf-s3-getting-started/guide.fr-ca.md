@@ -1,6 +1,6 @@
 ---
 title: Object Storage - Débuter avec S3 Object Storage
-slug: s3/getting-started-with-s3
+slug: s3/getting-started-with-aws-cli
 excerpt:
 section: Guides
 order: 020
