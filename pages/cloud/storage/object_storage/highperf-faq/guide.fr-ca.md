@@ -46,7 +46,7 @@ Vous trouverez la description des classes des stockage [ici](https://docs.ovh.co
 #### Quelles sont les fonctionnalités disponibles pour mes classes de stockage S3 ? 
 
 Les classes de stockages Objet S3 bénéficie de fonctionnalités enrichies pour gérer au mieux votre donnée : gestion des profils utilisateurs S3, configuration des droits d'accès par objet, protection de la données avec immutabilité des bucket, gestion de version.
-En roadmap de nouvelles fonctions sont à venir, nous vous invitons à consulter régulièrement notre roadmap public Github : ICI
+En roadmap de nouvelles fonctions sont à venir, nous vous invitons à consulter régulièrement notre roadmap public Github [ici](https://github.com/ovh/public-cloud-roadmap/projects/3).
 
 #### Quelles sont les API S3 compatibles avec les classes de stockage Object Storage S3 ? 
 
@@ -192,7 +192,7 @@ Vous pouvez choisir de synchroniser vos données d'une région à une autre en u
 
 #### Est-il possible de gérer les cycles de vie de la donnée ? 
 
-Les options de lifecycle ne sont pas encore disponible. Nous vous invitons à suivre notre roadmap public sur Github pour être informé de sa sortie : ICI
+Les options de lifecycle ne sont pas encore disponible. Nous vous invitons à suivre notre roadmap public sur Github pour être informé de sa sortie [ici](https://github.com/ovh/public-cloud-roadmap/projects/3).
 
 ### Performances
 
