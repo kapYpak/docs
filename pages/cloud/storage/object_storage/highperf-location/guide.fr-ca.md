@@ -21,9 +21,9 @@ Munissez vous de vos clés d'accès S3 et accédez en ligne de commande aux diff
 
 | Classe de stockage recommandée | URL endpoint | Region disponible<br><b><i>A inscrire en minuscule</i></b>  |
 | --- | --- | --- |
-| Object Storage S3 -  Standard   | [https://s3.\<region>.io.cloud.ovh.net/](https://s3.gra.io.cloud.ovh.net/) | Gravelines: gra |
-| Object Storage S3 -  High Performance | [https://s3.\<region>.perf.cloud.ovh.net/](https://s3.gra.io.cloud.ovh.net/) | Gravelines: gra<br>Strasbourg : sbg |
-| Object Storage S3 - Cold Archive | [https://s3.\<region>.archive.cloud.ovh.net](https://s3.rbx.archive.cloud.ovh.net/) | Roubaix: rbx-archive <br><i>Note : datacentre d'ingestion de données. Après archivage, le bucket est  archivé dans 4 datacentre en France.</i> |
+| Object Storage S3 - Standard | `https://s3.<region>.io.cloud.ovh.net` | Gravelines: gra |
+| Object Storage S3 - High Performance | `https://s3.<region>.perf.cloud.ovh.net` | Gravelines: gra<br>Strasbourg : sbg |
+| Object Storage S3 - Cold Archive | `https://s3.<region>.archive.cloud.ovh.net` | Roubaix: rbx-archive <br><i>Note : datacentre d'ingestion de données. Après archivage, le bucket est  archivé dans 4 datacentre en France.</i> |
 
 Le point de terminaison de bucket est une URL, par exemple https://my-bucket.s3.fr-par.scw.cloud. qui représente un point de terminaison de style hôte virtuel
 

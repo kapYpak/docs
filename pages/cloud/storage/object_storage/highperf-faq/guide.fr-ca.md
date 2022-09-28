@@ -50,7 +50,7 @@ En roadmap de nouvelles fonctions sont à venir, nous vous invitons à consulter
 
 #### Quelles sont les API S3 compatibles avec les classes de stockage Object Storage S3 ? 
 
-Les classes de stockages objet S3 offrent un  large support des API S3. L'ensemble des API compatibles sont décrites [ici](https://docs.ovh.com/ca/ca/fr/storage/object-storage/s3/choosing-a-suitable-class). 
+Les classes de stockages objet S3 offrent un  large support des API S3. L'ensemble des API compatibles sont décrites [ici](https://docs.ovh.com/ca/fr/storage/object-storage/s3/choosing-a-suitable-class). 
 
 #### Quels sont les outils compatibles  avec l'object storage S3 ? 
 
@@ -80,11 +80,11 @@ Les endpoints object storage sont disponibles à travers le réseau publique. La
 
 #### Puis-je gérer plusieurs profils d'utilisateurs ?
 
-Il est possible de gérer plusieurs profils utilisateurs grace aux S3 Policies. Un guide est disponible [ici](https://docs.ovh.com/ca/fr/storage/s3/getting-started-with-s3/).
+Il est possible de gérer plusieurs profils utilisateurs grace aux S3 Policies. Un guide est disponible [ici](https://docs.ovh.com/ca/fr/storage/s3/debuter-avec-s3/).
 
 #### Comment configurer les droits d'accès par objet ou par bucket ?
 
-ll est possible de configurer des droits d'accès par profil utilisateur et par objet. Un guide est disponible [ici](https://docs.ovh.com/ca/fr/storage/s3/identity-and-access-management/).
+ll est possible de configurer des droits d'accès par profil utilisateur et par objet. Un guide est disponible [ici](https://docs.ovh.com/ca/fr/storage/s3/gestion-des-identites-et-des-acces/).
 
 ll n'est pas encore possible de configurer des droits d'accès par bucket. 
 
@@ -198,7 +198,7 @@ Les options de lifecycle ne sont pas encore disponible. Nous vous invitons à su
 
 #### Comment uploader des volumes importants de données? 
 
-Pour télécharger de gros volumes de données, il est recommandé de paralléliser les connexions. (multithread upload). Plusieurs requêtes sont en cours en parallèle et la bande passante est multipliée (1 Gbps par connexion). Vous trouverez plus de détail sur la méthodologie [ici](https://docs.ovh.com/ca/fr/storage/s3/optimise-the-sending-of-your-files/).
+Pour télécharger de gros volumes de données, il est recommandé de paralléliser les connexions. (multithread upload). Plusieurs requêtes sont en cours en parallèle et la bande passante est multipliée (1 Gbps par connexion). Vous trouverez plus de détail sur la méthodologie [ici](https://docs.ovh.com/ca/fr/storage/s3/optimisez-l-envoi-de-vos-fichiers/).
 
 #### Quelle est la bande passante disponible pour l'upload et le download ? 
 
