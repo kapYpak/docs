@@ -200,10 +200,6 @@ Les options de lifecycle ne sont pas encore disponible. Nous vous invitons à su
 
 Pour télécharger de gros volumes de données, il est recommandé de paralléliser les connexions. (multithread upload). Plusieurs requêtes sont en cours en parallèle et la bande passante est multipliée (1 Gbps par connexion). Vous trouverez plus de détail sur la méthodologie [ici](https://docs.ovh.com/fr/storage/s3/optimise-the-sending-of-your-files/).
 
-#### Quelle est la différence de performance entre  les classes de stockage high performance et standard performance? 
-
-Adaptée aux cas d'usage  d'IA, ou d'analytique, la classe High Performance est construite pour apporter de la performance grace à son design et l'utilisation de disques SSD NVMe. Elle est adaptée à des cas d'usage nécessitant une grande vitesse de lecture / écriture sur des volumes de données importantes. Des tests de performance sont disponibles sur le site cloud mercato ICI.
-
 #### Quelle est la bande passante disponible pour l'upload et le download ? 
 
 La bande passante maximale est de 1gbps par connexion.
