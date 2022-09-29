@@ -105,7 +105,7 @@ Inserisci le informazioni disponibili nel tuo file OpenRC:
 - il nome del titolare, corrispondente al campo OS_TENANT_NAME.
 - la password del tuo utente Horizon.
 - il nome del servizio, corrispondente a swift.
-- l'indirizzo dell'endpoint, corrispondente al campo OS_AUTH_URL cioè https://auth.cloud.ovh.net/v2.0
+- l'indirizzo dell'endpoint, corrispondente al campo OS_AUTH_URL cioè https://auth.cloud.ovh.net/v3
 
 
 La chiave API e il Tempo massimo di attesa sono facoltativi.

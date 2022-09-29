@@ -41,7 +41,7 @@ OVHcloud propose 3 classes de stockages S3 :
 * **Standard**  pour vos stockages volumineux pour lesquelles vous recherchez une meilleurs ratio prix/performance comme par exemple pour des sites web, des librairie de partage d'images ou des back up ,
 * **Cold Archive** pour vos archives.
 
-Vous trouverez la description des classes des stockage [ici](https://docs.ovh.com/ca/fr/storage/object-storage/s3/choosing-a-suitable-class).
+Vous trouverez la description des classes des stockage [ici](https://docs.ovh.com/ca/fr/storage/object-storage/s3/choosing-a-suitable-class/).
 
 #### Quelles sont les fonctionnalités disponibles pour mes classes de stockage S3 ? 
 
@@ -50,7 +50,7 @@ En roadmap de nouvelles fonctions sont à venir, nous vous invitons à consulter
 
 #### Quelles sont les API S3 compatibles avec les classes de stockage Object Storage S3 ? 
 
-Les classes de stockages objet S3 offrent un  large support des API S3. L'ensemble des API compatibles sont décrites [ici](https://docs.ovh.com/ca/fr/storage/object-storage/s3/choosing-a-suitable-class). 
+Les classes de stockages objet S3 offrent un  large support des API S3. L'ensemble des API compatibles sont décrites [ici](https://docs.ovh.com/ca/fr/storage/object-storage/s3/choosing-a-suitable-class/). 
 
 #### Quels sont les outils compatibles  avec l'object storage S3 ? 
 
@@ -127,7 +127,7 @@ Un serveur OVHCloud est un serveur opéré pour un service OVHCloud, par exemple
 
 Lorsque le Service est indisponible ou connaît des dysfonctionnements pour lesquels la responsabilité d'OVHcloud peut être engagée, vous pouvez contacter les équipes d'OVHcloud et d'ouvrir un Ticket Incident à partir de votre Interface de Gestion.
 
-OVHcloud s’engage à assurer les niveaux de Service relatifs à la disponibilité du Service tels que décrits dans les T&C consultables [ici](https://docs.ovh.com/ca/fr/storage/object-storage/s3/choosing-a-suitable-class).
+OVHcloud s’engage à assurer les niveaux de Service relatifs à la disponibilité du Service tels que décrits dans les T&C consultables [ici](https://docs.ovh.com/ca/fr/storage/object-storage/s3/choosing-a-suitable-class/).
 
 ### Durabilité
 

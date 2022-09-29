@@ -113,7 +113,7 @@ Hier müssen Sie verschiedene Informationen aus der "OpenRC"-Datei angeben:
 - den Namen des Besitzers ("OS_TENANT_NAME");
 - das Passwort des Horizon Nutzers;
 - den Namen des Service ("swift");
-- die Adresse des Zugriffspunkts (Feld "OS_AUTH_URL" oder "https://auth.cloud.ovh.net/v2.0").
+- die Adresse des Zugriffspunkts (Feld "OS_AUTH_URL" oder "https://auth.cloud.ovh.net/v3").
 
 
 Der "API Key" und die "Maximale Wartezeit" sind fakultativ.

@@ -108,7 +108,7 @@ Należy tu podać informacje z pliku "OpenRC":
 - Nazwa dzierżawcy, odnowsząca się do pola "OS_TENANT_NAME"
 - Hasło użytkownika Horizon
 - Nazwa usługi odnosząca się do "swift"
-- Adres punktu dostępowego, odnosi się do pola "OS_AUTH_URL" czyli "https://auth.cloud.ovh.net/v2.0"
+- Adres punktu dostępowego, odnosi się do pola "OS_AUTH_URL" czyli "https://auth.cloud.ovh.net/v3"
 
 
 "Klucz API" i "Maksymalny czas oczekiwania" to wartości fakultatywne.

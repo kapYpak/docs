@@ -111,7 +111,7 @@ Introduzca los datos, que encontrará en el archivo OpenRC:
 - nombre del inquilino, correspondiente al campo OS_TENANT_NAME;
 - contraseña del usuario Horizon;
 - nombre del servicio: swift;
-- URL de identidad de punto final, correspondiente al campo «OS_AUTH_URL», es decir, https://auth.cloud.ovh.net/v2.0.
+- URL de identidad de punto final, correspondiente al campo «OS_AUTH_URL», es decir, https://auth.cloud.ovh.net/v3.
 
 
 La «Clave API» y el «Tiempo de espera de solicitudes HTTP» son opcionales.
