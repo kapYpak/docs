@@ -1,10 +1,10 @@
 ---
 title: Object Storage - Choisir une classe de stockage adaptée
-slug: s3/choosing-a-suitable-class
+slug: s3/choosing-a-suitable-storage-class
 section: Informations générales
 order: 005
 ---
- 
+
 **Dernière mise à jour le 27/09/2022**
 
 Le stockage objet « Object Storage » est une famille d’offre de stockage proposant des espaces de stockage performant, scalable et sécurisé.
