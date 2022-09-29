@@ -4,7 +4,7 @@ slug: s3/create-container
 section: Guides
 order: 040
 ---
- 
+
 **Dernière mise à jour le 27/09/2022**
 
 ## Objectif
@@ -30,7 +30,7 @@ Pour créer un bucket Object Storage, vous devez d'abord vous connecter à votre
 
 ![My containers Dashboard](images/highperf-create-container-2022092808185322.png)
 
-Créer `Créer un conteneur d'objet`{.action} et sélectionnez votre classe de stockage:
+Cliquez sur `Créer un conteneur d'objet`{.action} et sélectionnez votre classe de stockage:
 
 ![Select your solution](images/highperf-create-container-20220928081750384.png)
 
