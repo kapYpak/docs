@@ -1,8 +1,8 @@
 ---
-title: Object Storage Swift - Zarzadzaj swoimi archiwami za pomoca programu SFTP/SCP
+title: Zarzadzaj swoimi archiwami za pomoca programu SFTP/SCP
 slug: pca/sftp
 excerpt: Przewodnik ten wyjasnia, jak zarzadzac usuga Public Cloud Archive.
-section: OpenStack Swift Archive Storage Class Specifics
+section: Public Cloud Archive
 order: 100
 ---
 

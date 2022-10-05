@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Découvrez notre solution de stockage bloc basées sur la technologie CEPH.</p>
+<p>Découvrez notre solution Block Storage basée sur la technologie CEPH. Si vous êtes un client Public Cloud et que vous devez ajouter des disques à votre instance, lisez notre documentation <a href="https://docs.ovh.com/ca/fr/public-cloud/">ici</a>. Si vous avez besoin d'un CephFS, les guides suivants sur le service Cloud Disk Array illustrent la manière de monter un filer et l'API pour gérer le service</p>
 
 </div>

@@ -1,8 +1,8 @@
 ---
-title: Object Storage Swift - Creación del contenedor Object Storage
-slug: pcs/create-container
+title: Creación del contenedor Object Storage
+slug: pcs/creacion-de-contenedor
 excerpt: Cómo crear los contenedores Object Storage desde el área de cliente de OVHcloud
-section: OpenStack Swift Storage Class Specifics
+section: Object Storage Standard (Swift)
 order: 110
 ---
 

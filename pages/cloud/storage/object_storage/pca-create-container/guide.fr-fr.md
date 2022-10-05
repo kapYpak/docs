@@ -1,8 +1,8 @@
 ---
-title: Object Storage Swift - Création de conteneur Public Cloud Archive
-slug: pca/create-container
+title: Création de conteneur Public Cloud Archive
+slug: pca/creation-de-conteneur
 excerpt: Découvrez comment créer vos conteneurs Public Cloud Archive depuis votre espace client OVHcloud
-section: Spécificités de la classe de stockage d'archive OpenStack Swift
+section: Public Cloud Archive
 order: 020
 ---
 
@@ -17,7 +17,7 @@ L'offre Public Cloud Archive est une solution de stockage illimitée avec une fa
 - pour de l'hébergement public (pour stocker tout ce qui est accessible au public);
 - pour du stockage à froid (archivage).
 
-La première étape est la création d’un conteneur qui regroupera vos fichiers.
+La première étape est la création d’un conteneur qui regroupera vos fichiers. 
 
 **Ce guide explique comment créer un conteneur depuis l'espace client OVHcloud.**
 
@@ -47,9 +47,9 @@ Nommez votre conteneur puis cliquez sur `Ajouter le conteneur`{.action} :
 
 > [!warning]
 >
-> Si vous souhaitez lier votre conteneur à un nom de domaine, le nom de votre conteneur de doit pas contenir les caractères suivants :
+> Si vous souhaitez lier votre conteneur à un nom de domaine, le nom de votre conteneur de doit pas contenir les caractères suivants : 
 >
-> - [ . ]
+> - [ . ] 
 > - [ _ ]
 > - et vous ne devez pas utiliser de majuscules.
 >

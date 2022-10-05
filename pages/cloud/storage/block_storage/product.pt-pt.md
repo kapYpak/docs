@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Descubra a nossa solução de armazenamento em bloco baseada na tecnologia CEPH.</p>
+<p>Descobre a nossa solução de armazenamento em bloco baseada na tecnologia CEPH. Se é um cliente público e precisa de adicionar unidades à sua instância leia a nossa documentação de armazenamento <a href="https://docs.ovh.com/pt/public-cloud/">aqui</a>. Se precisar de um ficheiro distribuído CephFS, os seguintes guias no serviço Cloud Disk Array ilustram como montar um arquivador e o API para gerir o serviço</p>
 
 </div>

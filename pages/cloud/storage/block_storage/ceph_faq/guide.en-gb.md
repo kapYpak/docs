@@ -1,5 +1,5 @@
 ---
-title: 'FAQ'
+title: FAQ
 slug: ceph/faq
 excerpt: 'Frequently asked questions'
 section: Cloud Disk Array

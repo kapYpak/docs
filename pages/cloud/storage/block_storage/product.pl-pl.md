@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Poznaj nasze rozwiązania do przechowywania danych oparte na technologii CEPH.</p>
+<p>Odkryj nasze rozwiązanie do przechowywania bloków oparte na technologii CEPH. Jeśli jesteś klientem chmury publicznej i potrzebujesz dodać dyski do swojej instancji, przeczytaj naszą dokumentację dotyczącą pamięci masowej <a href="https://docs.ovh.com/pl/public-cloud/">tutaj</a>. Jeśli potrzebujesz rozproszonego pliku CephFS, poniższe przewodniki na temat usługi Cloud Disk Array ilustrują, jak zamontować filer i API do zarządzania usługą</p>
 
 </div>

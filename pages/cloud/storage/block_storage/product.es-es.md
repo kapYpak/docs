@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Descubra nuestra solución de almacenamiento en bloque basada en la tecnología CEPH.</p>
+<p>Descubra nuestra solución de almacenamiento en bloque basada en la tecnología CEPH. Si es cliente de la nube pública y necesita añadir unidades a su instancia, lea nuestra documentación sobre almacenamiento <a href="https://docs.ovh.com/es/public-cloud/">aquí</a>. Si necesita un archivo distribuido CephFS, las siguientes guías sobre el servicio Cloud Disk Array ilustran cómo montar un archivador y la API para gestionar el servicio</p>
 
 </div>

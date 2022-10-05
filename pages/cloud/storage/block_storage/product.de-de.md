@@ -22,6 +22,6 @@ text-align:justify;
 
 <div id="customProductIndex">
 
-<p>Entdecken Sie unsere auf der CEPH Technologie basierende Block-Storage-Lösung.</p>
+<p>Entdecken Sie unsere Blockspeicherlösung auf Basis der CEPH-Technologie. Wenn Sie ein Public-Cloud-Kunde sind und Ihrer Instanz Laufwerke hinzufügen müssen, lesen Sie unsere Speicherdokumentation <a href="https://docs.ovh.com/de/public-cloud/">hier</a>. Wenn Sie einen verteilten CephFS-Filer benötigen, finden Sie in den folgenden Anleitungen zum Cloud Disk Array Service Hinweise zum Einbinden eines Filers und zur API für die Verwaltung des Services</p>
 
 </div>
