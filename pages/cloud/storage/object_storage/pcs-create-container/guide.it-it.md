@@ -2,7 +2,7 @@
 title: Crea un container Object Storage
 slug: pcs/creazione-container
 excerpt: Come creare i container Object Storage dallo Spazio Cliente OVHcloud
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 110
 ---
 

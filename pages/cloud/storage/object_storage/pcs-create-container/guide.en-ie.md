@@ -2,7 +2,7 @@
 title: Creating an Object Storage container
 slug: pcs/create-container
 excerpt: Find out how to create your Object Storage containers in the OVHcloud Control Panel
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 110
 ---
 

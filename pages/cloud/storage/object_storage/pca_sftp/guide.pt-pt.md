@@ -2,7 +2,7 @@
 title: Gerir os seus arquivos a partir de um cliente SFTP/SCP
 slug: pca/sftp
 excerpt: Saiba como gerir e administrar os seus arquivos Public Cloud.
-section: Public Cloud Archive
+section: OpenStack Swift Archive Storage Class Specifics
 order: 100
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Identity and access management
+title: Object Storage - Identity and access management
 slug: s3/identity-and-access-management
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 030
 ---
 

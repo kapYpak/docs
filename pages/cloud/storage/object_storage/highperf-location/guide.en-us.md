@@ -1,7 +1,7 @@
 ---
-title: Location (endpoints)
+title: Object Storage - Location (endpoints)
 slug: s3/location
-section: Object Storage S3 High Performance
+section: General information
 order: 025
 ---
 

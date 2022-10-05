@@ -1,8 +1,8 @@
 ---
-title: Premiers pas avec CLI
+title: Object Storage - Premiers pas avec CLI
 slug: s3/getting-started-with-cli
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 020
 ---
 

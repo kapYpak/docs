@@ -2,7 +2,7 @@
 title: Gestionar los archivos desde un cliente SFTP/SCP
 slug: pca/sftp
 excerpt: Cómo gestionar y administrar los archivos de Public Cloud de OVH
-section: Public Cloud Archive
+section: OpenStack Swift Archive Storage Class Specifics
 order: 100
 ---
 

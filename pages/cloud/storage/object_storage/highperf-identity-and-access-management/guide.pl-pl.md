@@ -1,8 +1,8 @@
 ---
-title: Zarządzanie tożsamością i dostępem (EN)
+title: Object Storage - Zarządzanie tożsamością i dostępem (EN)
 slug: s3/identity-and-access-management
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 030
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/identity-and-access-management/'

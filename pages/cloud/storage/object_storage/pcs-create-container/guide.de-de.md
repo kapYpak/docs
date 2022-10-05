@@ -2,7 +2,7 @@
 title: Erstellung von Object Storage Containern
 slug: pcs/container-erstellen
 excerpt: Erfahren Sie hier, wie Sie Ihre Object Storage Container über das OVHcloud Kundencenter erstellen
-section: Object Storage Standard (Swift)
+section: OpenStack Swift Storage Class Specifics
 order: 110
 ---
 
@@ -21,7 +21,7 @@ Das Object Storage Angebot für Public Cloud bietet eine unbegrenzte Speicherlö
 - für öffentliches Hosting (zur Speicherung von allen öffentlich zugänglichen Daten)
 - für Cold Storage (Archivierung)
 
-Der erste Schritt ist die Erstellung eines Containers, der Ihre Dateien zusammenfasst. 
+Der erste Schritt ist die Erstellung eines Containers, der Ihre Dateien zusammenfasst.
 
 **Diese Anleitung erklärt, wie Sie Container über Ihr OVHcloud Kundencenter und das OpenStack Horizon Interface erstellen.**
 

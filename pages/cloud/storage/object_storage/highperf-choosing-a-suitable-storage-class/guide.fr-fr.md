@@ -1,7 +1,7 @@
 ---
-title: Choisir une classe de stockage adaptée à vos besoins
+title: Object Storage - Choisir une classe de stockage adaptée à vos besoins
 slug: s3/choosing-the-right-storage-class-for-your-needs
-section: Object Storage S3 High Performance
+section: Informations générales
 order: 005
 ---
 

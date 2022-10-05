@@ -2,7 +2,7 @@
 title: Verwaltung der Archive via SFTP/SCP Client
 slug: pca/sftp
 excerpt: Hier erfahren Sie, wie Sie Ihre Public Cloud Archive verwalten und verwalten.
-section: Public Cloud Archive
+section: OpenStack Swift Archive Storage Class Specifics
 order: 100
 ---
 

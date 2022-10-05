@@ -1,8 +1,8 @@
 ---
-title: Pierwsze kroki z CLI (EN)
+title: Object Storage - Pierwsze kroki z CLI (EN)
 slug: s3/getting-started-with-cli
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 020
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/getting-started-with-cli/'

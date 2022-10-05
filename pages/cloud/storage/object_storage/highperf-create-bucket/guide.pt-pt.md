@@ -1,7 +1,7 @@
 ---
-title: Criando um intervalo (EN)
+title: Object Storage - Criando um intervalo (EN)
 slug: s3/create-bucket
-section: Object Storage S3 High Performance
+section: Guides
 order: 040
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/create-container/'

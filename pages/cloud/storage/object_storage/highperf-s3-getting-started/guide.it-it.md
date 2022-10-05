@@ -1,8 +1,8 @@
 ---
-title: "Iniziare con l'interfaccia a riga di comando (EN)"
+title: Object Storage - "Iniziare con l'interfaccia a riga di comando (EN)"
 slug: s3/getting-started-with-cli
 excerpt:
-section: Object Storage S3 High Performance
+section: Guides
 order: 020
 routes:
     canonical: 'https://docs.ovh.com/gb/en/storage/s3/getting-started-with-cli/'
