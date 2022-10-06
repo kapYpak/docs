@@ -1,5 +1,5 @@
 ---
-title: Creating a Public Cloud Archive container
+title: Object Storage Swift - Creating a Public Cloud Archive container
 slug: pca/create-container
 excerpt: Find out how to create your Public Cloud Archive containers in the OVHcloud Control Panel
 section: OpenStack Swift Archive Storage Class Specifics
@@ -17,7 +17,7 @@ The Public Cloud Archive offer is an unlimited storage solution with simple bill
 - For public hosting (to store everything that is accessible to the public).
 - For cold storage (archiving).
 
-The first step is to create a container that will hold your files. 
+The first step is to create a container that will hold your files.
 
 **This guide explains how to create a container in the OVHcloud Control Panel.**
 
