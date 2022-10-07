@@ -12,9 +12,9 @@ section: Cloud Disk Array
 > [!primary]
 >
 > L'utilisation d'une interface web est le moyen le plus simple de créer un utilisateur.
-> 
+>
 
-Tout d'abord, connectez-vous au [l’espace client].(https://ca.ovh.com/manager/dedicated/#/configuration){.external} et dans la rubrique Plates-formes et services vous trouverez le service Ceph. 
+Tout d'abord, connectez-vous au [l’espace client](https://ca.ovh.com/manager/dedicated/#/configuration){.external} et dans la rubrique Plates-formes et services vous trouverez le service Ceph. 
 
 Dans l'onglet "Utilisateurs", vous trouverez la liste des **utilisateurs**. Aucun utilisateur n'est créé par défaut (sauf *admin* que vous ne pouvez pas utiliser et qui est caché).
 
@@ -28,7 +28,7 @@ Entrez un nom d'utilisateur.
 > [!warning]
 >
 > Votre nom d'utilisateur doit comporter au moins trois caractères.
-> 
+>
 
 
 ![Ceph user creation](images/create_a_user_2.png){.thumbnail}
@@ -44,7 +44,7 @@ Après la création de l'utilisateur, vous revenez au gestionnaire. Vous pouvez 
 > [!api]
 >
 > @api {POST} /dedicated/ceph/{serviceName}/user
-> 
+>
 serviceName est le fsid de votre cluster.
 
 Vous pouvez vérifier la création des utilisateurs en dressant une liste des utilisateurs.

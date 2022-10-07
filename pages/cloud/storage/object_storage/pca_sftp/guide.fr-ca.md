@@ -85,7 +85,7 @@ Dans cette partie nous allons désactiver deux options de WinSCP :
 
 
 ### Récuperation de données
-La récupération de données est soumise à un déblocage préalable de l'objet. Une requête GET est nécessaire sur l’objet en question. Si cette manipulation n’est pas effectuée au préalable, votre client SFTP retournera un message d’erreur lors d’une tentative de téléchargement de fichier. Consulter notre guide sur le déverrouillage de vos objets [ici](https://docs.ovh.com/fr/storage/pca/unlock/).
+La récupération de données est soumise à un déblocage préalable de l'objet. Une requête GET est nécessaire sur l’objet en question. Si cette manipulation n’est pas effectuée au préalable, votre client SFTP retournera un message d’erreur lors d’une tentative de téléchargement de fichier. Consulter notre guide sur le déverrouillage de vos objets [ici](https://docs.ovh.com/ca/fr/storage/pca/unlock/).
 
 ## Aller plus loin
 
