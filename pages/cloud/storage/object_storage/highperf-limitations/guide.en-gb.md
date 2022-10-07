@@ -40,4 +40,4 @@ Unlimited
 
 ## Go further
 
-Join our community of users on [https://community.ovh.com/en](https://community.ovh.com/en/){.external}.
+Join our community of users on [https://community.ovh.com/en/](https://community.ovh.com/en/){.external}.

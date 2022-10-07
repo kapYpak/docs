@@ -48,4 +48,4 @@ rsync -Pva /mnt/SrcNas /mnt/DstNas
 
 ## Per saperne di più
 
-Contatta la nostra Community di utenti all’indirizzo [https://community.ovh.com/en](https://community.ovh.com/en/){.external}.
+Contatta la nostra Community di utenti all’indirizzo [https://community.ovh.com/en/](https://community.ovh.com/en/){.external}.
